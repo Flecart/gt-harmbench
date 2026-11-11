@@ -2,7 +2,10 @@
 
 **Benchmarking AI safety risks through the lens of game theory.**
 
-[![Dataset on Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Jinesis%2Fgt--harmbench-yellow)](https://huggingface.co/datasets/Jinesis/gt-harmbench) [![Paper](https://img.shields.io/badge/arXiv-2602.12316-b31b1b)](https://arxiv.org/abs/2602.12316)
+Official code and data for the **NeurIPS 2026 (Main Track)** paper *GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory*.
+
+<!-- TODO: point the NeurIPS badge at the proceedings page once it is published (currently links to arXiv). -->
+[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026%20Main%20Track-6f42c1)](https://arxiv.org/abs/2602.12316) [![Dataset on Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Jinesis%2Fgt--harmbench-yellow)](https://huggingface.co/datasets/Jinesis/gt-harmbench) [![Paper](https://img.shields.io/badge/arXiv-2602.12316-b31b1b)](https://arxiv.org/abs/2602.12316)
 
 GT-HarmBench asks a simple question: when a realistic AI-risk situation has the structure of a strategic dilemma, does a language model choose the socially optimal action — or the collectively harmful one?
 
