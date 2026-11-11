@@ -179,7 +179,7 @@ Matching Pennies scenarios (mixed-strategy only, no pure Nash) are excluded.
 
 ```python
 from datasets import load_dataset
-ds = load_dataset("causalNLP/gt-harmbench")
+ds = load_dataset("Jinesis/gt-harmbench")
 print(ds[0])
 ```
 
@@ -193,7 +193,7 @@ uv run python3 -m eval.eval \\
     --times 1 --temperature 1.0 --experiment-name my-eval
 ```
 
-See the [GitHub repository](https://github.com/causalNLP/gt-harmbench) for the full evaluation harness.
+See the [GitHub repository](https://github.com/Flecart/gt-harmbench) for the full evaluation harness.
 
 ## Citation
 
@@ -201,7 +201,7 @@ See the [GitHub repository](https://github.com/causalNLP/gt-harmbench) for the f
 @dataset{{gt-harmbench,
   title  = {{GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory}},
   year   = {{2026}},
-  url    = {{https://huggingface.co/datasets/causalNLP/gt-harmbench}}
+  url    = {{https://huggingface.co/datasets/Jinesis/gt-harmbench}}
 }}
 ```
 

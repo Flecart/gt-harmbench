@@ -8,7 +8,7 @@ repository-code: "https://github.com/Flecart/gt-harmbench"
 # Mirror; the canonical copy of the data ships in this repository under data/.
 identifiers:
   - type: url
-    value: "https://huggingface.co/datasets/causalNLP/gt-harmbench"
+    value: "https://huggingface.co/datasets/Jinesis/gt-harmbench"
     description: "Hugging Face Hub mirror of the release dataset"
 keywords:
   - game theory

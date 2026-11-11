@@ -2,6 +2,8 @@
 
 **Benchmarking AI safety risks through the lens of game theory.**
 
+[![Dataset on Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Jinesis%2Fgt--harmbench-yellow)](https://huggingface.co/datasets/Jinesis/gt-harmbench) [![Paper](https://img.shields.io/badge/arXiv-2602.12316-b31b1b)](https://arxiv.org/abs/2602.12316)
+
 GT-HarmBench asks a simple question: when a realistic AI-risk situation has the structure of a strategic dilemma, does a language model choose the socially optimal action — or the collectively harmful one?
 
 Each of the **1,535 scenarios** presents a 2×2 symmetric game embedded in a first-person narrative grounded in a real entry from the [MIT AI Risk Repository](https://airisk.mit.edu/). A model is queried twice per scenario — once as the row player, once as the column player — and its choices are scored against four precomputed social-choice targets: **Nash equilibrium**, **utilitarian** (max sum), **Rawlsian** (max-min), and **Nash social welfare** (max product).
@@ -27,7 +29,7 @@ Two properties worth knowing before you use it:
 
 See **[DATASET.md](DATASET.md)** for the full datasheet: schema, generation pipeline, domain coverage, human validation, and known limitations.
 
-The dataset ships in this repository — clone it and everything under `data/` is there, no download step. A mirror is also on the Hugging Face Hub at [`causalNLP/gt-harmbench`](https://huggingface.co/datasets/causalNLP/gt-harmbench) if you prefer `datasets.load_dataset`; this repository is the canonical copy.
+The dataset ships in this repository — clone it and everything under `data/` is there, no download step. A mirror is also on the Hugging Face Hub at [`Jinesis/gt-harmbench`](https://huggingface.co/datasets/Jinesis/gt-harmbench) (`load_dataset("Jinesis/gt-harmbench")`) if you prefer `datasets.load_dataset`; this repository is the canonical copy.
 
 ## Install
 
