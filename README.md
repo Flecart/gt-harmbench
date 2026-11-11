@@ -29,7 +29,7 @@ Two properties worth knowing before you use it:
 
 See **[DATASET.md](DATASET.md)** for the full datasheet: schema, generation pipeline, domain coverage, human validation, and known limitations.
 
-The dataset ships in this repository — clone it and everything under `data/` is there, no download step. A mirror is also on the Hugging Face Hub at [`Jinesis/gt-harmbench`](https://huggingface.co/datasets/Jinesis/gt-harmbench) (`load_dataset("Jinesis/gt-harmbench")`) if you prefer `datasets.load_dataset`; this repository is the canonical copy.
+The dataset ships in this repository — clone it and everything under `data/` is there, no download step. A mirror is also on the Hugging Face Hub at [`Jinesis/gt-harmbench`](https://huggingface.co/datasets/Jinesis/gt-harmbench) (`load_dataset("Jinesis/gt-harmbench", split="train")`) if you prefer `datasets.load_dataset`; this repository is the canonical copy.
 
 ## Install
 

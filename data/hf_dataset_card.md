@@ -129,7 +129,7 @@ Matching Pennies scenarios (mixed-strategy only, no pure Nash) are excluded.
 
 ```python
 from datasets import load_dataset
-ds = load_dataset("Jinesis/gt-harmbench")
+ds = load_dataset("Jinesis/gt-harmbench", split="train")
 print(ds[0])
 ```
 
