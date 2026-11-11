@@ -1,0 +1,400 @@
+group,n,spec,criterion,count,rate
+All,1535,minmax,subset_util,1529,0.996091
+All,1535,minmax,equal_util,1402,0.913355
+All,1535,minmax,subset_rawls,1516,0.987622
+All,1535,minmax,equal_rawls,1514,0.986319
+All,1535,pp_min_eps,subset_util,1531,0.997394
+All,1535,pp_min_eps,equal_util,1404,0.914658
+All,1535,pp_min_eps,subset_rawls,1516,0.987622
+All,1535,pp_min_eps,equal_rawls,1514,0.986319
+All,1535,scen_min,subset_util,1529,0.996091
+All,1535,scen_min,equal_util,1404,0.914658
+All,1535,scen_min,subset_rawls,1516,0.987622
+All,1535,scen_min,equal_rawls,1516,0.987622
+All,1535,c5,subset_util,1523,0.992182
+All,1535,c5,equal_util,1398,0.910749
+All,1535,c5,subset_rawls,1524,0.992834
+All,1535,c5,equal_rawls,1524,0.992834
+All,1535,c10,subset_util,1535,1.000000
+All,1535,c10,equal_util,1410,0.918567
+All,1535,c10,subset_rawls,1512,0.985016
+All,1535,c10,equal_rawls,1512,0.985016
+All,1535,c25,subset_util,1535,1.000000
+All,1535,c25,equal_util,1410,0.918567
+All,1535,c25,subset_rawls,1512,0.985016
+All,1535,c25,equal_rawls,1512,0.985016
+All,1535,c100,subset_util,1535,1.000000
+All,1535,c100,equal_util,1410,0.918567
+All,1535,c100,subset_rawls,1512,0.985016
+All,1535,c100,equal_rawls,1512,0.985016
+All,1535,raw,subset_util,1162,0.757003
+All,1535,raw,equal_util,1157,0.753746
+All,1535,raw,subset_rawls,1162,0.757003
+All,1535,raw,equal_rawls,1162,0.757003
+All,1535,cond10,subset_util,1535,1.000000
+All,1535,cond10,equal_util,1410,0.918567
+All,1535,cond10,subset_rawls,1512,0.985016
+All,1535,cond10,equal_rawls,1512,0.985016
+All,1535,floor,subset_util,1510,0.983713
+All,1535,floor,equal_util,1385,0.902280
+All,1535,floor,subset_rawls,1531,0.997394
+All,1535,floor,equal_rawls,1531,0.997394
+Prisoner's Dilemma,490,minmax,subset_util,490,1.000000
+Prisoner's Dilemma,490,minmax,equal_util,490,1.000000
+Prisoner's Dilemma,490,minmax,subset_rawls,490,1.000000
+Prisoner's Dilemma,490,minmax,equal_rawls,490,1.000000
+Prisoner's Dilemma,490,pp_min_eps,subset_util,490,1.000000
+Prisoner's Dilemma,490,pp_min_eps,equal_util,490,1.000000
+Prisoner's Dilemma,490,pp_min_eps,subset_rawls,490,1.000000
+Prisoner's Dilemma,490,pp_min_eps,equal_rawls,490,1.000000
+Prisoner's Dilemma,490,scen_min,subset_util,490,1.000000
+Prisoner's Dilemma,490,scen_min,equal_util,490,1.000000
+Prisoner's Dilemma,490,scen_min,subset_rawls,490,1.000000
+Prisoner's Dilemma,490,scen_min,equal_rawls,490,1.000000
+Prisoner's Dilemma,490,c5,subset_util,490,1.000000
+Prisoner's Dilemma,490,c5,equal_util,490,1.000000
+Prisoner's Dilemma,490,c5,subset_rawls,490,1.000000
+Prisoner's Dilemma,490,c5,equal_rawls,490,1.000000
+Prisoner's Dilemma,490,c10,subset_util,490,1.000000
+Prisoner's Dilemma,490,c10,equal_util,490,1.000000
+Prisoner's Dilemma,490,c10,subset_rawls,490,1.000000
+Prisoner's Dilemma,490,c10,equal_rawls,490,1.000000
+Prisoner's Dilemma,490,c25,subset_util,490,1.000000
+Prisoner's Dilemma,490,c25,equal_util,490,1.000000
+Prisoner's Dilemma,490,c25,subset_rawls,490,1.000000
+Prisoner's Dilemma,490,c25,equal_rawls,490,1.000000
+Prisoner's Dilemma,490,c100,subset_util,490,1.000000
+Prisoner's Dilemma,490,c100,equal_util,490,1.000000
+Prisoner's Dilemma,490,c100,subset_rawls,490,1.000000
+Prisoner's Dilemma,490,c100,equal_rawls,490,1.000000
+Prisoner's Dilemma,490,raw,subset_util,475,0.969388
+Prisoner's Dilemma,490,raw,equal_util,475,0.969388
+Prisoner's Dilemma,490,raw,subset_rawls,475,0.969388
+Prisoner's Dilemma,490,raw,equal_rawls,475,0.969388
+Prisoner's Dilemma,490,cond10,subset_util,490,1.000000
+Prisoner's Dilemma,490,cond10,equal_util,490,1.000000
+Prisoner's Dilemma,490,cond10,subset_rawls,490,1.000000
+Prisoner's Dilemma,490,cond10,equal_rawls,490,1.000000
+Prisoner's Dilemma,490,floor,subset_util,488,0.995918
+Prisoner's Dilemma,490,floor,equal_util,488,0.995918
+Prisoner's Dilemma,490,floor,subset_rawls,488,0.995918
+Prisoner's Dilemma,490,floor,equal_rawls,488,0.995918
+Chicken,379,minmax,subset_util,373,0.984169
+Chicken,379,minmax,equal_util,248,0.654354
+Chicken,379,minmax,subset_rawls,360,0.949868
+Chicken,379,minmax,equal_rawls,360,0.949868
+Chicken,379,pp_min_eps,subset_util,375,0.989446
+Chicken,379,pp_min_eps,equal_util,250,0.659631
+Chicken,379,pp_min_eps,subset_rawls,360,0.949868
+Chicken,379,pp_min_eps,equal_rawls,360,0.949868
+Chicken,379,scen_min,subset_util,373,0.984169
+Chicken,379,scen_min,equal_util,248,0.654354
+Chicken,379,scen_min,subset_rawls,360,0.949868
+Chicken,379,scen_min,equal_rawls,360,0.949868
+Chicken,379,c5,subset_util,367,0.968338
+Chicken,379,c5,equal_util,242,0.638522
+Chicken,379,c5,subset_rawls,368,0.970976
+Chicken,379,c5,equal_rawls,368,0.970976
+Chicken,379,c10,subset_util,379,1.000000
+Chicken,379,c10,equal_util,254,0.670185
+Chicken,379,c10,subset_rawls,356,0.939314
+Chicken,379,c10,equal_rawls,356,0.939314
+Chicken,379,c25,subset_util,379,1.000000
+Chicken,379,c25,equal_util,254,0.670185
+Chicken,379,c25,subset_rawls,356,0.939314
+Chicken,379,c25,equal_rawls,356,0.939314
+Chicken,379,c100,subset_util,379,1.000000
+Chicken,379,c100,equal_util,254,0.670185
+Chicken,379,c100,subset_rawls,356,0.939314
+Chicken,379,c100,equal_rawls,356,0.939314
+Chicken,379,raw,subset_util,21,0.055409
+Chicken,379,raw,equal_util,16,0.042216
+Chicken,379,raw,subset_rawls,21,0.055409
+Chicken,379,raw,equal_rawls,21,0.055409
+Chicken,379,cond10,subset_util,379,1.000000
+Chicken,379,cond10,equal_util,254,0.670185
+Chicken,379,cond10,subset_rawls,356,0.939314
+Chicken,379,cond10,equal_rawls,356,0.939314
+Chicken,379,floor,subset_util,356,0.939314
+Chicken,379,floor,equal_util,231,0.609499
+Chicken,379,floor,subset_rawls,377,0.994723
+Chicken,379,floor,equal_rawls,377,0.994723
+Stag hunt,317,minmax,subset_util,317,1.000000
+Stag hunt,317,minmax,equal_util,317,1.000000
+Stag hunt,317,minmax,subset_rawls,317,1.000000
+Stag hunt,317,minmax,equal_rawls,317,1.000000
+Stag hunt,317,pp_min_eps,subset_util,317,1.000000
+Stag hunt,317,pp_min_eps,equal_util,317,1.000000
+Stag hunt,317,pp_min_eps,subset_rawls,317,1.000000
+Stag hunt,317,pp_min_eps,equal_rawls,317,1.000000
+Stag hunt,317,scen_min,subset_util,317,1.000000
+Stag hunt,317,scen_min,equal_util,317,1.000000
+Stag hunt,317,scen_min,subset_rawls,317,1.000000
+Stag hunt,317,scen_min,equal_rawls,317,1.000000
+Stag hunt,317,c5,subset_util,317,1.000000
+Stag hunt,317,c5,equal_util,317,1.000000
+Stag hunt,317,c5,subset_rawls,317,1.000000
+Stag hunt,317,c5,equal_rawls,317,1.000000
+Stag hunt,317,c10,subset_util,317,1.000000
+Stag hunt,317,c10,equal_util,317,1.000000
+Stag hunt,317,c10,subset_rawls,317,1.000000
+Stag hunt,317,c10,equal_rawls,317,1.000000
+Stag hunt,317,c25,subset_util,317,1.000000
+Stag hunt,317,c25,equal_util,317,1.000000
+Stag hunt,317,c25,subset_rawls,317,1.000000
+Stag hunt,317,c25,equal_rawls,317,1.000000
+Stag hunt,317,c100,subset_util,317,1.000000
+Stag hunt,317,c100,equal_util,317,1.000000
+Stag hunt,317,c100,subset_rawls,317,1.000000
+Stag hunt,317,c100,equal_rawls,317,1.000000
+Stag hunt,317,raw,subset_util,317,1.000000
+Stag hunt,317,raw,equal_util,317,1.000000
+Stag hunt,317,raw,subset_rawls,317,1.000000
+Stag hunt,317,raw,equal_rawls,317,1.000000
+Stag hunt,317,cond10,subset_util,317,1.000000
+Stag hunt,317,cond10,equal_util,317,1.000000
+Stag hunt,317,cond10,subset_rawls,317,1.000000
+Stag hunt,317,cond10,equal_rawls,317,1.000000
+Stag hunt,317,floor,subset_util,317,1.000000
+Stag hunt,317,floor,equal_util,317,1.000000
+Stag hunt,317,floor,subset_rawls,317,1.000000
+Stag hunt,317,floor,equal_rawls,317,1.000000
+Coordination,180,minmax,subset_util,180,1.000000
+Coordination,180,minmax,equal_util,180,1.000000
+Coordination,180,minmax,subset_rawls,180,1.000000
+Coordination,180,minmax,equal_rawls,180,1.000000
+Coordination,180,pp_min_eps,subset_util,180,1.000000
+Coordination,180,pp_min_eps,equal_util,180,1.000000
+Coordination,180,pp_min_eps,subset_rawls,180,1.000000
+Coordination,180,pp_min_eps,equal_rawls,180,1.000000
+Coordination,180,scen_min,subset_util,180,1.000000
+Coordination,180,scen_min,equal_util,180,1.000000
+Coordination,180,scen_min,subset_rawls,180,1.000000
+Coordination,180,scen_min,equal_rawls,180,1.000000
+Coordination,180,c5,subset_util,180,1.000000
+Coordination,180,c5,equal_util,180,1.000000
+Coordination,180,c5,subset_rawls,180,1.000000
+Coordination,180,c5,equal_rawls,180,1.000000
+Coordination,180,c10,subset_util,180,1.000000
+Coordination,180,c10,equal_util,180,1.000000
+Coordination,180,c10,subset_rawls,180,1.000000
+Coordination,180,c10,equal_rawls,180,1.000000
+Coordination,180,c25,subset_util,180,1.000000
+Coordination,180,c25,equal_util,180,1.000000
+Coordination,180,c25,subset_rawls,180,1.000000
+Coordination,180,c25,equal_rawls,180,1.000000
+Coordination,180,c100,subset_util,180,1.000000
+Coordination,180,c100,equal_util,180,1.000000
+Coordination,180,c100,subset_rawls,180,1.000000
+Coordination,180,c100,equal_rawls,180,1.000000
+Coordination,180,raw,subset_util,180,1.000000
+Coordination,180,raw,equal_util,180,1.000000
+Coordination,180,raw,subset_rawls,180,1.000000
+Coordination,180,raw,equal_rawls,180,1.000000
+Coordination,180,cond10,subset_util,180,1.000000
+Coordination,180,cond10,equal_util,180,1.000000
+Coordination,180,cond10,subset_rawls,180,1.000000
+Coordination,180,cond10,equal_rawls,180,1.000000
+Coordination,180,floor,subset_util,180,1.000000
+Coordination,180,floor,equal_util,180,1.000000
+Coordination,180,floor,subset_rawls,180,1.000000
+Coordination,180,floor,equal_rawls,180,1.000000
+Bach or Stravinski,141,minmax,subset_util,141,1.000000
+Bach or Stravinski,141,minmax,equal_util,139,0.985816
+Bach or Stravinski,141,minmax,subset_rawls,141,1.000000
+Bach or Stravinski,141,minmax,equal_rawls,139,0.985816
+Bach or Stravinski,141,pp_min_eps,subset_util,141,1.000000
+Bach or Stravinski,141,pp_min_eps,equal_util,139,0.985816
+Bach or Stravinski,141,pp_min_eps,subset_rawls,141,1.000000
+Bach or Stravinski,141,pp_min_eps,equal_rawls,139,0.985816
+Bach or Stravinski,141,scen_min,subset_util,141,1.000000
+Bach or Stravinski,141,scen_min,equal_util,141,1.000000
+Bach or Stravinski,141,scen_min,subset_rawls,141,1.000000
+Bach or Stravinski,141,scen_min,equal_rawls,141,1.000000
+Bach or Stravinski,141,c5,subset_util,141,1.000000
+Bach or Stravinski,141,c5,equal_util,141,1.000000
+Bach or Stravinski,141,c5,subset_rawls,141,1.000000
+Bach or Stravinski,141,c5,equal_rawls,141,1.000000
+Bach or Stravinski,141,c10,subset_util,141,1.000000
+Bach or Stravinski,141,c10,equal_util,141,1.000000
+Bach or Stravinski,141,c10,subset_rawls,141,1.000000
+Bach or Stravinski,141,c10,equal_rawls,141,1.000000
+Bach or Stravinski,141,c25,subset_util,141,1.000000
+Bach or Stravinski,141,c25,equal_util,141,1.000000
+Bach or Stravinski,141,c25,subset_rawls,141,1.000000
+Bach or Stravinski,141,c25,equal_rawls,141,1.000000
+Bach or Stravinski,141,c100,subset_util,141,1.000000
+Bach or Stravinski,141,c100,equal_util,141,1.000000
+Bach or Stravinski,141,c100,subset_rawls,141,1.000000
+Bach or Stravinski,141,c100,equal_rawls,141,1.000000
+Bach or Stravinski,141,raw,subset_util,141,1.000000
+Bach or Stravinski,141,raw,equal_util,141,1.000000
+Bach or Stravinski,141,raw,subset_rawls,141,1.000000
+Bach or Stravinski,141,raw,equal_rawls,141,1.000000
+Bach or Stravinski,141,cond10,subset_util,141,1.000000
+Bach or Stravinski,141,cond10,equal_util,141,1.000000
+Bach or Stravinski,141,cond10,subset_rawls,141,1.000000
+Bach or Stravinski,141,cond10,equal_rawls,141,1.000000
+Bach or Stravinski,141,floor,subset_util,141,1.000000
+Bach or Stravinski,141,floor,equal_util,141,1.000000
+Bach or Stravinski,141,floor,subset_rawls,141,1.000000
+Bach or Stravinski,141,floor,equal_rawls,141,1.000000
+No conflict,28,minmax,subset_util,28,1.000000
+No conflict,28,minmax,equal_util,28,1.000000
+No conflict,28,minmax,subset_rawls,28,1.000000
+No conflict,28,minmax,equal_rawls,28,1.000000
+No conflict,28,pp_min_eps,subset_util,28,1.000000
+No conflict,28,pp_min_eps,equal_util,28,1.000000
+No conflict,28,pp_min_eps,subset_rawls,28,1.000000
+No conflict,28,pp_min_eps,equal_rawls,28,1.000000
+No conflict,28,scen_min,subset_util,28,1.000000
+No conflict,28,scen_min,equal_util,28,1.000000
+No conflict,28,scen_min,subset_rawls,28,1.000000
+No conflict,28,scen_min,equal_rawls,28,1.000000
+No conflict,28,c5,subset_util,28,1.000000
+No conflict,28,c5,equal_util,28,1.000000
+No conflict,28,c5,subset_rawls,28,1.000000
+No conflict,28,c5,equal_rawls,28,1.000000
+No conflict,28,c10,subset_util,28,1.000000
+No conflict,28,c10,equal_util,28,1.000000
+No conflict,28,c10,subset_rawls,28,1.000000
+No conflict,28,c10,equal_rawls,28,1.000000
+No conflict,28,c25,subset_util,28,1.000000
+No conflict,28,c25,equal_util,28,1.000000
+No conflict,28,c25,subset_rawls,28,1.000000
+No conflict,28,c25,equal_rawls,28,1.000000
+No conflict,28,c100,subset_util,28,1.000000
+No conflict,28,c100,equal_util,28,1.000000
+No conflict,28,c100,subset_rawls,28,1.000000
+No conflict,28,c100,equal_rawls,28,1.000000
+No conflict,28,raw,subset_util,28,1.000000
+No conflict,28,raw,equal_util,28,1.000000
+No conflict,28,raw,subset_rawls,28,1.000000
+No conflict,28,raw,equal_rawls,28,1.000000
+No conflict,28,cond10,subset_util,28,1.000000
+No conflict,28,cond10,equal_util,28,1.000000
+No conflict,28,cond10,subset_rawls,28,1.000000
+No conflict,28,cond10,equal_rawls,28,1.000000
+No conflict,28,floor,subset_util,28,1.000000
+No conflict,28,floor,equal_util,28,1.000000
+No conflict,28,floor,subset_rawls,28,1.000000
+No conflict,28,floor,equal_rawls,28,1.000000
+All,1535,sweep_c=0,subset_util,,0.757003
+All,1535,sweep_c=0.5,subset_util,,0.776547
+All,1535,sweep_c=1,subset_util,,0.816938
+All,1535,sweep_c=2,subset_util,,0.912704
+All,1535,sweep_c=3,subset_util,,0.989577
+All,1535,sweep_c=4,subset_util,,0.990228
+All,1535,sweep_c=5,subset_util,,0.992182
+All,1535,sweep_c=7,subset_util,,0.992182
+All,1535,sweep_c=10,subset_util,,1.000000
+All,1535,sweep_c=15,subset_util,,1.000000
+All,1535,sweep_c=20,subset_util,,1.000000
+All,1535,sweep_c=25,subset_util,,1.000000
+All,1535,sweep_c=40,subset_util,,1.000000
+All,1535,sweep_c=60,subset_util,,1.000000
+All,1535,sweep_c=100,subset_util,,1.000000
+All,1535,sweep_c=250,subset_util,,1.000000
+All,1535,sweep_c=1000,subset_util,,1.000000
+Prisoner's Dilemma,490,sweep_c=0,subset_util,,0.969388
+Prisoner's Dilemma,490,sweep_c=0.5,subset_util,,0.989796
+Prisoner's Dilemma,490,sweep_c=1,subset_util,,0.993878
+Prisoner's Dilemma,490,sweep_c=2,subset_util,,0.995918
+Prisoner's Dilemma,490,sweep_c=3,subset_util,,0.995918
+Prisoner's Dilemma,490,sweep_c=4,subset_util,,0.995918
+Prisoner's Dilemma,490,sweep_c=5,subset_util,,1.000000
+Prisoner's Dilemma,490,sweep_c=7,subset_util,,1.000000
+Prisoner's Dilemma,490,sweep_c=10,subset_util,,1.000000
+Prisoner's Dilemma,490,sweep_c=15,subset_util,,1.000000
+Prisoner's Dilemma,490,sweep_c=20,subset_util,,1.000000
+Prisoner's Dilemma,490,sweep_c=25,subset_util,,1.000000
+Prisoner's Dilemma,490,sweep_c=40,subset_util,,1.000000
+Prisoner's Dilemma,490,sweep_c=60,subset_util,,1.000000
+Prisoner's Dilemma,490,sweep_c=100,subset_util,,1.000000
+Prisoner's Dilemma,490,sweep_c=250,subset_util,,1.000000
+Prisoner's Dilemma,490,sweep_c=1000,subset_util,,1.000000
+Chicken,379,sweep_c=0,subset_util,,0.055409
+Chicken,379,sweep_c=0.5,subset_util,,0.108179
+Chicken,379,sweep_c=1,subset_util,,0.266491
+Chicken,379,sweep_c=2,subset_util,,0.651715
+Chicken,379,sweep_c=3,subset_util,,0.963061
+Chicken,379,sweep_c=4,subset_util,,0.965699
+Chicken,379,sweep_c=5,subset_util,,0.968338
+Chicken,379,sweep_c=7,subset_util,,0.968338
+Chicken,379,sweep_c=10,subset_util,,1.000000
+Chicken,379,sweep_c=15,subset_util,,1.000000
+Chicken,379,sweep_c=20,subset_util,,1.000000
+Chicken,379,sweep_c=25,subset_util,,1.000000
+Chicken,379,sweep_c=40,subset_util,,1.000000
+Chicken,379,sweep_c=60,subset_util,,1.000000
+Chicken,379,sweep_c=100,subset_util,,1.000000
+Chicken,379,sweep_c=250,subset_util,,1.000000
+Chicken,379,sweep_c=1000,subset_util,,1.000000
+Stag hunt,317,sweep_c=0,subset_util,,1.000000
+Stag hunt,317,sweep_c=0.5,subset_util,,1.000000
+Stag hunt,317,sweep_c=1,subset_util,,1.000000
+Stag hunt,317,sweep_c=2,subset_util,,1.000000
+Stag hunt,317,sweep_c=3,subset_util,,1.000000
+Stag hunt,317,sweep_c=4,subset_util,,1.000000
+Stag hunt,317,sweep_c=5,subset_util,,1.000000
+Stag hunt,317,sweep_c=7,subset_util,,1.000000
+Stag hunt,317,sweep_c=10,subset_util,,1.000000
+Stag hunt,317,sweep_c=15,subset_util,,1.000000
+Stag hunt,317,sweep_c=20,subset_util,,1.000000
+Stag hunt,317,sweep_c=25,subset_util,,1.000000
+Stag hunt,317,sweep_c=40,subset_util,,1.000000
+Stag hunt,317,sweep_c=60,subset_util,,1.000000
+Stag hunt,317,sweep_c=100,subset_util,,1.000000
+Stag hunt,317,sweep_c=250,subset_util,,1.000000
+Stag hunt,317,sweep_c=1000,subset_util,,1.000000
+Coordination,180,sweep_c=0,subset_util,,1.000000
+Coordination,180,sweep_c=0.5,subset_util,,1.000000
+Coordination,180,sweep_c=1,subset_util,,1.000000
+Coordination,180,sweep_c=2,subset_util,,1.000000
+Coordination,180,sweep_c=3,subset_util,,1.000000
+Coordination,180,sweep_c=4,subset_util,,1.000000
+Coordination,180,sweep_c=5,subset_util,,1.000000
+Coordination,180,sweep_c=7,subset_util,,1.000000
+Coordination,180,sweep_c=10,subset_util,,1.000000
+Coordination,180,sweep_c=15,subset_util,,1.000000
+Coordination,180,sweep_c=20,subset_util,,1.000000
+Coordination,180,sweep_c=25,subset_util,,1.000000
+Coordination,180,sweep_c=40,subset_util,,1.000000
+Coordination,180,sweep_c=60,subset_util,,1.000000
+Coordination,180,sweep_c=100,subset_util,,1.000000
+Coordination,180,sweep_c=250,subset_util,,1.000000
+Coordination,180,sweep_c=1000,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=0,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=0.5,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=1,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=2,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=3,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=4,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=5,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=7,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=10,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=15,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=20,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=25,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=40,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=60,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=100,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=250,subset_util,,1.000000
+Bach or Stravinski,141,sweep_c=1000,subset_util,,1.000000
+No conflict,28,sweep_c=0,subset_util,,1.000000
+No conflict,28,sweep_c=0.5,subset_util,,1.000000
+No conflict,28,sweep_c=1,subset_util,,1.000000
+No conflict,28,sweep_c=2,subset_util,,1.000000
+No conflict,28,sweep_c=3,subset_util,,1.000000
+No conflict,28,sweep_c=4,subset_util,,1.000000
+No conflict,28,sweep_c=5,subset_util,,1.000000
+No conflict,28,sweep_c=7,subset_util,,1.000000
+No conflict,28,sweep_c=10,subset_util,,1.000000
+No conflict,28,sweep_c=15,subset_util,,1.000000
+No conflict,28,sweep_c=20,subset_util,,1.000000
+No conflict,28,sweep_c=25,subset_util,,1.000000
+No conflict,28,sweep_c=40,subset_util,,1.000000
+No conflict,28,sweep_c=60,subset_util,,1.000000
+No conflict,28,sweep_c=100,subset_util,,1.000000
+No conflict,28,sweep_c=250,subset_util,,1.000000
+No conflict,28,sweep_c=1000,subset_util,,1.000000

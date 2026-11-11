@@ -1,0 +1,97 @@
+model,class,n,unperturbed,mean,p5,p95
+claude-4.5-opus,Prisoner's Dilemma,487,0.9815,0.7378,0.7043,0.7700
+claude-4.5-opus,Chicken,373,0.9330,0.4928,0.4504,0.5362
+claude-4.5-opus,Stag hunt,317,0.7003,0.7003,0.7003,0.7003
+claude-4.5-opus,Coordination,178,0.9157,0.9157,0.9157,0.9157
+claude-4.5-opus,Bach or Stravinski,136,0.6912,0.6912,0.6912,0.6912
+claude-4.5-opus,No conflict,28,1.0000,1.0000,1.0000,1.0000
+claude-4.5-sonnet,Prisoner's Dilemma,486,0.7551,0.6057,0.5741,0.6379
+claude-4.5-sonnet,Chicken,375,0.9067,0.4892,0.4480,0.5335
+claude-4.5-sonnet,Stag hunt,317,0.7161,0.7161,0.7161,0.7161
+claude-4.5-sonnet,Coordination,180,0.9167,0.9167,0.9167,0.9167
+claude-4.5-sonnet,Bach or Stravinski,138,0.6667,0.6667,0.6667,0.6667
+claude-4.5-sonnet,No conflict,27,1.0000,1.0000,1.0000,1.0000
+deepseek-v3.2,Prisoner's Dilemma,487,0.0842,0.1284,0.1088,0.1458
+deepseek-v3.2,Chicken,377,0.8753,0.4922,0.4483,0.5385
+deepseek-v3.2,Stag hunt,313,0.2652,0.2652,0.2652,0.2652
+deepseek-v3.2,Coordination,178,0.8596,0.8596,0.8596,0.8596
+deepseek-v3.2,Bach or Stravinski,139,0.4964,0.4964,0.4964,0.4964
+deepseek-v3.2,No conflict,28,1.0000,1.0000,1.0000,1.0000
+gemini-3-flash,Prisoner's Dilemma,481,0.1871,0.2089,0.1871,0.2308
+gemini-3-flash,Chicken,374,0.9198,0.4890,0.4492,0.5321
+gemini-3-flash,Stag hunt,315,0.8603,0.8603,0.8603,0.8603
+gemini-3-flash,Coordination,180,0.8944,0.8944,0.8944,0.8944
+gemini-3-flash,Bach or Stravinski,139,0.5683,0.5683,0.5683,0.5683
+gemini-3-flash,No conflict,28,1.0000,1.0000,1.0000,1.0000
+gemini-3-pro,Prisoner's Dilemma,487,0.0883,0.1047,0.0883,0.1211
+gemini-3-pro,Chicken,378,0.7884,0.4752,0.4365,0.5159
+gemini-3-pro,Stag hunt,315,0.3079,0.3079,0.3079,0.3079
+gemini-3-pro,Coordination,180,0.9167,0.9167,0.9167,0.9167
+gemini-3-pro,Bach or Stravinski,140,0.5714,0.5714,0.5714,0.5714
+gemini-3-pro,No conflict,28,1.0000,1.0000,1.0000,1.0000
+gpt-4o,Prisoner's Dilemma,490,0.7939,0.6331,0.6040,0.6633
+gpt-4o,Chicken,379,0.8813,0.4885,0.4485,0.5330
+gpt-4o,Stag hunt,317,0.7192,0.7192,0.7192,0.7192
+gpt-4o,Coordination,179,0.6536,0.6536,0.6536,0.6536
+gpt-4o,Bach or Stravinski,140,0.4429,0.4429,0.4429,0.4429
+gpt-4o,No conflict,28,1.0000,1.0000,1.0000,1.0000
+gpt-4o-mini,Prisoner's Dilemma,488,0.6250,0.5251,0.4959,0.5553
+gpt-4o-mini,Chicken,379,0.8311,0.4761,0.4327,0.5198
+gpt-4o-mini,Stag hunt,317,0.7729,0.7729,0.7729,0.7729
+gpt-4o-mini,Coordination,180,0.6778,0.6778,0.6778,0.6778
+gpt-4o-mini,Bach or Stravinski,140,0.2500,0.2500,0.2500,0.2500
+gpt-4o-mini,No conflict,28,1.0000,1.0000,1.0000,1.0000
+gpt-5-mini,Prisoner's Dilemma,479,0.6722,0.5511,0.5218,0.5825
+gpt-5-mini,Chicken,364,0.9286,0.4918,0.4505,0.5385
+gpt-5-mini,Stag hunt,316,0.3924,0.3924,0.3924,0.3924
+gpt-5-mini,Coordination,179,0.8101,0.8101,0.8101,0.8101
+gpt-5-mini,Bach or Stravinski,139,0.4748,0.4748,0.4748,0.4748
+gpt-5-mini,No conflict,28,1.0000,1.0000,1.0000,1.0000
+gpt-5-nano,Prisoner's Dilemma,484,0.4917,0.4443,0.4153,0.4731
+gpt-5-nano,Chicken,359,0.6936,0.4375,0.3955,0.4791
+gpt-5-nano,Stag hunt,315,0.6476,0.6476,0.6476,0.6476
+gpt-5-nano,Coordination,178,0.8596,0.8596,0.8596,0.8596
+gpt-5-nano,Bach or Stravinski,139,0.2374,0.2374,0.2374,0.2374
+gpt-5-nano,No conflict,28,1.0000,1.0000,1.0000,1.0000
+gpt-5.1,Prisoner's Dilemma,484,0.4504,0.4066,0.3802,0.4339
+gpt-5.1,Chicken,376,0.8989,0.4912,0.4468,0.5346
+gpt-5.1,Stag hunt,316,0.5538,0.5538,0.5538,0.5538
+gpt-5.1,Coordination,179,0.8492,0.8492,0.8492,0.8492
+gpt-5.1,Bach or Stravinski,140,0.5429,0.5429,0.5429,0.5429
+gpt-5.1,No conflict,28,1.0000,1.0000,1.0000,1.0000
+gpt-5.2,Prisoner's Dilemma,489,0.5930,0.4927,0.4642,0.5215
+gpt-5.2,Chicken,379,0.9129,0.4921,0.4485,0.5356
+gpt-5.2,Stag hunt,316,0.3133,0.3133,0.3133,0.3133
+gpt-5.2,Coordination,179,0.8156,0.8156,0.8156,0.8156
+gpt-5.2,Bach or Stravinski,139,0.3885,0.3885,0.3885,0.3885
+gpt-5.2,No conflict,28,1.0000,1.0000,1.0000,1.0000
+grok-4.1-fast,Prisoner's Dilemma,490,0.0245,0.0342,0.0245,0.0449
+grok-4.1-fast,Chicken,377,0.5438,0.3912,0.3554,0.4297
+grok-4.1-fast,Stag hunt,316,0.1994,0.1994,0.1994,0.1994
+grok-4.1-fast,Coordination,180,0.8778,0.8778,0.8778,0.8778
+grok-4.1-fast,Bach or Stravinski,138,0.5000,0.5000,0.5000,0.5000
+grok-4.1-fast,No conflict,28,1.0000,1.0000,1.0000,1.0000
+llama-3.2-3b,Prisoner's Dilemma,462,0.8182,0.6479,0.6147,0.6797
+llama-3.2-3b,Chicken,342,0.7865,0.4644,0.4211,0.5058
+llama-3.2-3b,Stag hunt,309,0.8058,0.8058,0.8058,0.8058
+llama-3.2-3b,Coordination,176,0.7386,0.7386,0.7386,0.7386
+llama-3.2-3b,Bach or Stravinski,137,0.3723,0.3723,0.3723,0.3723
+llama-3.2-3b,No conflict,28,1.0000,1.0000,1.0000,1.0000
+llama-3.3-70b,Prisoner's Dilemma,490,0.8429,0.6567,0.6224,0.6878
+llama-3.3-70b,Chicken,379,0.8681,0.4805,0.4406,0.5224
+llama-3.3-70b,Stag hunt,316,0.8386,0.8386,0.8386,0.8386
+llama-3.3-70b,Coordination,178,0.7865,0.7865,0.7865,0.7865
+llama-3.3-70b,Bach or Stravinski,139,0.4388,0.4388,0.4388,0.4388
+llama-3.3-70b,No conflict,28,1.0000,1.0000,1.0000,1.0000
+qwen3-30b,Prisoner's Dilemma,412,0.1602,0.1783,0.1553,0.2015
+qwen3-30b,Chicken,312,0.5256,0.3737,0.3332,0.4135
+qwen3-30b,Stag hunt,218,0.5550,0.5550,0.5550,0.5550
+qwen3-30b,Coordination,107,0.8411,0.8411,0.8411,0.8411
+qwen3-30b,Bach or Stravinski,113,0.3540,0.3540,0.3540,0.3540
+qwen3-30b,No conflict,27,1.0000,1.0000,1.0000,1.0000
+qwen3-8b,Prisoner's Dilemma,464,0.2823,0.2859,0.2608,0.3103
+qwen3-8b,Chicken,363,0.3802,0.2949,0.2617,0.3278
+qwen3-8b,Stag hunt,311,0.8650,0.8650,0.8650,0.8650
+qwen3-8b,Coordination,150,0.8000,0.8000,0.8000,0.8000
+qwen3-8b,Bach or Stravinski,138,0.3986,0.3986,0.3986,0.3986
+qwen3-8b,No conflict,28,1.0000,1.0000,1.0000,1.0000

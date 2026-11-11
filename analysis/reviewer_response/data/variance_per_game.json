@@ -1,0 +1,119 @@
+{
+ "Llama 3.2 3B": {
+  "Prisoner's Dilemma": 0.035777087639996624,
+  "Chicken": 0.038987177379235835,
+  "Bach or Stravinski": 0.0923038460737146,
+  "Stag hunt": 0.02280350850198274,
+  "Coordination": 0.07127411872482182,
+  "No conflict": 0.029880715233359827,
+  "ALL": 0.019135879249309932
+ },
+ "Llama 3.3 70B": {
+  "Prisoner's Dilemma": 0.017888543819998284,
+  "Chicken": 0.03346640106136301,
+  "Bach or Stravinski": 0.05019960159204453,
+  "Stag hunt": 0.008944271909999166,
+  "Coordination": 0.029664793948382645,
+  "No conflict": 0.0,
+  "ALL": 0.01698664597570877
+ },
+ "Qwen3 8B": {
+  "Prisoner's Dilemma": 0.016733200530681506,
+  "Chicken": 0.02280350850198278,
+  "Bach or Stravinski": 0.026076809620810607,
+  "Stag hunt": 0.026832815729997444,
+  "Coordination": 0.041472882706655424,
+  "No conflict": 0.0,
+  "ALL": 0.005687549748504244
+ },
+ "GPT-5 Nano": {
+  "Prisoner's Dilemma": 0.03346640106136303,
+  "Chicken": 0.051768716422179145,
+  "Bach or Stravinski": 0.041472882706655445,
+  "Stag hunt": 0.06572670690061992,
+  "Coordination": 0.01095445115010327,
+  "No conflict": 0.0,
+  "ALL": 0.020663894412007305
+ },
+ "Qwen3 30B": {
+  "Prisoner's Dilemma": 0.04604345773288535,
+  "Chicken": 0.0268328157299975,
+  "Bach or Stravinski": 0.07402702209328699,
+  "Stag hunt": 0.04979959839195492,
+  "Coordination": 0.0384707681233427,
+  "No conflict": 0.0,
+  "ALL": 0.0099816092989292
+ },
+ "GPT-4o": {
+  "Prisoner's Dilemma": 0.03162277660168382,
+  "Chicken": 0.010954451150103331,
+  "Bach or Stravinski": 0.055497747702046435,
+  "Stag hunt": 0.038470768123342686,
+  "Coordination": 0.041472882706655445,
+  "No conflict": 0.0,
+  "ALL": 0.017732025242972987
+ },
+ "DeepSeek v3.2": {
+  "Prisoner's Dilemma": 0.019999999999999997,
+  "Chicken": 0.014142135623730923,
+  "Bach or Stravinski": 0.07014271166700073,
+  "Stag hunt": 0.06841052550594828,
+  "Coordination": 0.03898717737923584,
+  "No conflict": 0.0,
+  "ALL": 0.022807003574312763
+ },
+ "GPT-5 Mini": {
+  "Prisoner's Dilemma": 0.07823042886243178,
+  "Chicken": 0.017888543819998333,
+  "Bach or Stravinski": 0.038987177379235835,
+  "Stag hunt": 0.029664793948382655,
+  "Coordination": 0.0374165738677394,
+  "No conflict": 0.0,
+  "ALL": 0.017913524601422665
+ },
+ "GPT-5.2": {
+  "Prisoner's Dilemma": 0.07563068160475615,
+  "Chicken": 0.01654093907721135,
+  "Bach or Stravinski": 0.06542170893518452,
+  "Stag hunt": 0.05099019513592785,
+  "Coordination": 0.041472882706655424,
+  "No conflict": 0.0,
+  "ALL": 0.01676499128195631
+ },
+ "GPT-5.1": {
+  "Prisoner's Dilemma": 0.04098780306383843,
+  "Chicken": 0.019798232559872415,
+  "Bach or Stravinski": 0.05761944116355171,
+  "Stag hunt": 0.058309518948453,
+  "Coordination": 0.02280350850198278,
+  "No conflict": 0.0,
+  "ALL": 0.020059554110220656
+ },
+ "Gemini 3 Flash": {
+  "Prisoner's Dilemma": 0.016733200530681513,
+  "Chicken": 0.010954451150103331,
+  "Bach or Stravinski": 0.03999999999999998,
+  "Stag hunt": 0.03286335345030994,
+  "Coordination": 0.016733200530681527,
+  "No conflict": 0.0,
+  "ALL": 0.014388489208633073
+ },
+ "Claude Sonnet 4.5": {
+  "Prisoner's Dilemma": 0.04381780460041328,
+  "Chicken": 0.008944271909999166,
+  "Bach or Stravinski": 0.061644140029689765,
+  "Stag hunt": 0.04560701700396553,
+  "Coordination": 0.051768716422179124,
+  "No conflict": 0.0,
+  "ALL": 0.010363208842365454
+ },
+ "Claude Opus 4.5": {
+  "Prisoner's Dilemma": 0.0,
+  "Chicken": 0.010954451150103331,
+  "Bach or Stravinski": 0.0521536192416212,
+  "Stag hunt": 0.016733200530681485,
+  "Coordination": 0.03633180424916993,
+  "No conflict": 0.0,
+  "ALL": 0.014070221018422983
+ }
+}

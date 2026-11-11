@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Environments
+.venv
+.envrc
+.env
+
+# Secrets — never commit
+*.key
+*.pem
+
+# Evaluation outputs (created on first run; regenerable, often very large)
+logs/
+*.log
+*.eval
+*.zip
+reasoning_traces/*.json
+data/plots/
+
+# Large regenerable reasoning intermediates
+artifacts/reasoning/extracted_all.json
+artifacts/reasoning/classified_all_gpt4omini.json
+artifacts/reasoning/classified_all_gpt5mini.json
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Agent tooling
+.claude
+.agents
+CLAUDE.md
+
+# Large log archives
+rq2a-logs.zip
+
+# Large regenerable eval-awareness traces (155MB; rebuild from logs/variance/)
+artifacts/eval_awareness/traces_k5.json
+analysis/reviewer_response/data/mech_choices.json
+analysis/reviewer_response/data/mech_stored_scores.json
+analysis/reviewer_response/data/mech_choices_nsw.json
+analysis/reviewer_response/data/baseline_choices.json
+analysis/reviewer_response/data/gamified_choices.json
+.env2
+data/mech_variants_nsw/
+data/mech_variants_nsw_changed/
+analysis/reviewer_response/data/abstract_choices.json
+
+# Local dev tooling (kept out of the public repo)
+CLAUDE.md
+.agents/
+skills-lock.json
+notebooks/
+analysis/reviewer_response/data/judge_full/sonnet55_release__12255.jsonl

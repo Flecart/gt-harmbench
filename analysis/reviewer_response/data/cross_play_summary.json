@@ -1,0 +1,213 @@
+{
+ "Claude 4.5 Opus": {
+  "self": 0.8777120315581854,
+  "cross": 0.6710358956201615,
+  "delta_game": {
+   "Prisoner's Dilemma": -0.4365334106752653,
+   "Chicken": -0.08206351683602942,
+   "Bach or Stravinski": -0.09078475184251589,
+   "Stag hunt": -0.11908985285770879,
+   "Coordination": -0.10803668449494241,
+   "No conflict": 0.0
+  },
+  "best_partner": "Claude 4.5 Sonnet",
+  "worst_partner": "Grok 4.1 Fast"
+ },
+ "Claude 4.5 Sonnet": {
+  "self": 0.7993442622950819,
+  "cross": 0.6519072236358616,
+  "delta_game": {
+   "Prisoner's Dilemma": -0.25661253513389604,
+   "Chicken": -0.07096918260780483,
+   "Bach or Stravinski": -0.09858133236090816,
+   "Stag hunt": -0.12114422862865315,
+   "Coordination": -0.10749949420747329,
+   "No conflict": 0.0
+  },
+  "best_partner": "Claude 4.5 Opus",
+  "worst_partner": "Grok 4.1 Fast"
+ },
+ "GPT-5.2": {
+  "self": 0.6290743155149935,
+  "cross": 0.5857131931347654,
+  "delta_game": {
+   "Prisoner's Dilemma": -0.16076521782674907,
+   "Chicken": -0.07062223233402243,
+   "Bach or Stravinski": 0.22062208554695784,
+   "Stag hunt": 0.05297397719919267,
+   "Coordination": -0.03943485898062249,
+   "No conflict": 0.0
+  },
+  "best_partner": "Claude 4.5 Opus",
+  "worst_partner": "Grok 4.1 Fast"
+ },
+ "GPT-5.1": {
+  "self": 0.6467889908256881,
+  "cross": 0.5972465613990481,
+  "delta_game": {
+   "Prisoner's Dilemma": -0.06927198387514238,
+   "Chicken": -0.06358844336334746,
+   "Bach or Stravinski": 0.021337832130036927,
+   "Stag hunt": -0.026865092053748096,
+   "Coordination": -0.059304425299095076,
+   "No conflict": 0.0
+  },
+  "best_partner": "Claude 4.5 Opus",
+  "worst_partner": "Grok 4.1 Fast"
+ },
+ "GPT-5 Mini": {
+  "self": 0.6790450928381963,
+  "cross": 0.6053354113444381,
+  "delta_game": {
+   "Prisoner's Dilemma": -0.20367238643690422,
+   "Chicken": -0.08035106540680259,
+   "Bach or Stravinski": 0.10168450199911044,
+   "Stag hunt": 0.03166694757423116,
+   "Coordination": -0.0396762916103226,
+   "No conflict": 0.0
+  },
+  "best_partner": "Claude 4.5 Opus",
+  "worst_partner": "Grok 4.1 Fast"
+ },
+ "GPT-5 Nano": {
+  "self": 0.6013289036544851,
+  "cross": 0.5737240376023075,
+  "delta_game": {
+   "Prisoner's Dilemma": -0.08619849777298921,
+   "Chicken": 0.03696462647649368,
+   "Bach or Stravinski": 0.2134354232634669,
+   "Stag hunt": -0.07318557856639907,
+   "Coordination": -0.10033538168128164,
+   "No conflict": 0.0
+  },
+  "best_partner": "Claude 4.5 Opus",
+  "worst_partner": "Grok 4.1 Fast"
+ },
+ "GPT-4o": {
+  "self": 0.755700325732899,
+  "cross": 0.6313040928292335,
+  "delta_game": {
+   "Prisoner's Dilemma": -0.2876119450258737,
+   "Chicken": -0.05580128741536816,
+   "Bach or Stravinski": 0.08441516396073478,
+   "Stag hunt": -0.12140521115516179,
+   "Coordination": -0.004412186558203857,
+   "No conflict": 0.0
+  },
+  "best_partner": "Claude 4.5 Opus",
+  "worst_partner": "Grok 4.1 Fast"
+ },
+ "Grok 4.1 Fast": {
+  "self": 0.34986945169712796,
+  "cross": 0.388503787447615,
+  "delta_game": {
+   "Prisoner's Dilemma": 0.02544022672841319,
+   "Chicken": 0.10381722023175077,
+   "Bach or Stravinski": 0.019926611949127482,
+   "Stag hunt": 0.07294727086609668,
+   "Coordination": -0.08850081789074982,
+   "No conflict": 0.0
+  },
+  "best_partner": "Gemini 3 Flash",
+  "worst_partner": "Qwen3 8B"
+ },
+ "Gemini 3 Pro": {
+  "self": 0.4637964774951076,
+  "cross": 0.47280727131727734,
+  "delta_game": {
+   "Prisoner's Dilemma": 0.039841729537827206,
+   "Chicken": 0.0006344567203179219,
+   "Bach or Stravinski": -0.011230563650098113,
+   "Stag hunt": 0.057390843002057934,
+   "Coordination": -0.11064230287321153,
+   "No conflict": 0.0
+  },
+  "best_partner": "Claude 4.5 Opus",
+  "worst_partner": "Grok 4.1 Fast"
+ },
+ "Gemini 3 Flash": {
+  "self": 0.641211323238973,
+  "cross": 0.5763679968340318,
+  "delta_game": {
+   "Prisoner's Dilemma": 0.04766079971170151,
+   "Chicken": -0.07753126566846003,
+   "Bach or Stravinski": -0.03127253583527989,
+   "Stag hunt": -0.21644780188674584,
+   "Coordination": -0.09616955681456396,
+   "No conflict": 0.0
+  },
+  "best_partner": "Claude 4.5 Sonnet",
+  "worst_partner": "Grok 4.1 Fast"
+ },
+ "Llama 3.3 70B": {
+  "self": 0.8070404172099087,
+  "cross": 0.6421647308241101,
+  "delta_game": {
+   "Prisoner's Dilemma": -0.329222684701413,
+   "Chicken": -0.047795369997526205,
+   "Bach or Stravinski": 0.08728143859213705,
+   "Stag hunt": -0.19751022925352002,
+   "Coordination": -0.11949686799707437,
+   "No conflict": 0.0
+  },
+  "best_partner": "Claude 4.5 Opus",
+  "worst_partner": "Grok 4.1 Fast"
+ },
+ "Llama 3.2 3B": {
+  "self": 0.759780370624571,
+  "cross": 0.6235106303218284,
+  "delta_game": {
+   "Prisoner's Dilemma": -0.3171488682024114,
+   "Chicken": -8.016290467482978e-05,
+   "Bach or Stravinski": 0.11516320450167311,
+   "Stag hunt": -0.18398871729888466,
+   "Coordination": -0.054779756699629534,
+   "No conflict": 0.0
+  },
+  "best_partner": "Claude 4.5 Opus",
+  "worst_partner": "Grok 4.1 Fast"
+ },
+ "Qwen3 30B": {
+  "self": 0.4266554903604359,
+  "cross": 0.47153870975546947,
+  "delta_game": {
+   "Prisoner's Dilemma": 0.04051501274541597,
+   "Chicken": 0.13512374962922258,
+   "Bach or Stravinski": 0.10475588604144231,
+   "Stag hunt": -0.044787952053567004,
+   "Coordination": -0.06830674464725062,
+   "No conflict": 0.0
+  },
+  "best_partner": "Claude 4.5 Opus",
+  "worst_partner": "Grok 4.1 Fast"
+ },
+ "Qwen3 8B": {
+  "self": 0.5096153846153846,
+  "cross": 0.5120469851357955,
+  "delta_game": {
+   "Prisoner's Dilemma": 0.003730751765570417,
+   "Chicken": 0.18956416580367813,
+   "Bach or Stravinski": 0.09435151114150198,
+   "Stag hunt": -0.22521956394443343,
+   "Coordination": -0.058960722167517576,
+   "No conflict": 0.0
+  },
+  "best_partner": "Claude 4.5 Opus",
+  "worst_partner": "Grok 4.1 Fast"
+ },
+ "DeepSeek V3.2": {
+  "self": 0.46229508196721314,
+  "cross": 0.4930035000469336,
+  "delta_game": {
+   "Prisoner's Dilemma": 0.07456457315538954,
+   "Chicken": -0.049208634742538226,
+   "Bach or Stravinski": 0.051216774056450975,
+   "Stag hunt": 0.11326677991036904,
+   "Coordination": -0.06417022434810371,
+   "No conflict": 0.0
+  },
+  "best_partner": "Claude 4.5 Opus",
+  "worst_partner": "Grok 4.1 Fast"
+ },
+ "_corr_self_delta": -0.9780205599680266
+}

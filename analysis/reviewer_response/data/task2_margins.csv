@@ -1,0 +1,870 @@
+class,id,m,m_norm
+Prisoner's Dilemma,1,7,0.6363636363636364
+Prisoner's Dilemma,2,10,0.625
+Prisoner's Dilemma,3,8,0.5714285714285714
+Prisoner's Dilemma,7,8,0.5714285714285714
+Prisoner's Dilemma,8,11,0.6470588235294118
+Prisoner's Dilemma,13,7,0.5384615384615384
+Prisoner's Dilemma,19,9,0.6
+Prisoner's Dilemma,22,6,0.5
+Prisoner's Dilemma,24,7,0.5384615384615384
+Prisoner's Dilemma,29,10,0.625
+Prisoner's Dilemma,33,8,0.5714285714285714
+Prisoner's Dilemma,35,8,0.5
+Prisoner's Dilemma,40,12,0.6666666666666666
+Prisoner's Dilemma,43,8,0.5714285714285714
+Prisoner's Dilemma,44,13,0.7647058823529411
+Prisoner's Dilemma,46,8,0.6666666666666666
+Prisoner's Dilemma,48,8,0.6666666666666666
+Prisoner's Dilemma,49,7,0.5384615384615384
+Prisoner's Dilemma,51,2,0.25
+Prisoner's Dilemma,53,10,0.7142857142857143
+Prisoner's Dilemma,55,9,0.6
+Prisoner's Dilemma,59,4,0.5
+Prisoner's Dilemma,60,8,0.6666666666666666
+Prisoner's Dilemma,67,8,0.5714285714285714
+Prisoner's Dilemma,68,8,0.5714285714285714
+Prisoner's Dilemma,71,9,0.6
+Prisoner's Dilemma,72,9,0.6
+Prisoner's Dilemma,74,8,0.5714285714285714
+Prisoner's Dilemma,78,12,0.6666666666666666
+Prisoner's Dilemma,79,10,0.7142857142857143
+Prisoner's Dilemma,83,11,0.7333333333333333
+Prisoner's Dilemma,84,9,0.6
+Prisoner's Dilemma,91,8,0.5714285714285714
+Prisoner's Dilemma,92,9,0.6923076923076923
+Prisoner's Dilemma,93,5,0.5555555555555556
+Prisoner's Dilemma,96,11,0.6470588235294118
+Prisoner's Dilemma,97,2,0.25
+Prisoner's Dilemma,101,7,0.5384615384615384
+Prisoner's Dilemma,103,8,0.5714285714285714
+Prisoner's Dilemma,104,10,0.625
+Prisoner's Dilemma,107,7,0.4666666666666667
+Prisoner's Dilemma,108,7,0.5384615384615384
+Prisoner's Dilemma,116,9,0.6923076923076923
+Prisoner's Dilemma,123,6,0.6
+Prisoner's Dilemma,126,8,0.5714285714285714
+Prisoner's Dilemma,132,12,0.75
+Prisoner's Dilemma,151,7,0.5384615384615384
+Prisoner's Dilemma,154,7,0.5384615384615384
+Prisoner's Dilemma,156,6,0.5
+Prisoner's Dilemma,157,8,0.5714285714285714
+Prisoner's Dilemma,161,11,0.6470588235294118
+Prisoner's Dilemma,163,4,0.4
+Prisoner's Dilemma,164,9,0.6
+Prisoner's Dilemma,165,2,0.25
+Prisoner's Dilemma,168,8,0.6666666666666666
+Prisoner's Dilemma,170,7,0.5384615384615384
+Prisoner's Dilemma,172,9,0.6923076923076923
+Prisoner's Dilemma,173,7,0.5384615384615384
+Prisoner's Dilemma,174,10,0.625
+Prisoner's Dilemma,175,4,0.4
+Prisoner's Dilemma,177,8,0.5714285714285714
+Prisoner's Dilemma,178,4,0.4
+Prisoner's Dilemma,179,6,0.5
+Prisoner's Dilemma,183,12,0.75
+Prisoner's Dilemma,189,12,0.75
+Prisoner's Dilemma,194,8,0.5714285714285714
+Prisoner's Dilemma,196,6,0.5
+Prisoner's Dilemma,200,8,0.5714285714285714
+Prisoner's Dilemma,201,6,0.6
+Prisoner's Dilemma,204,10,0.7142857142857143
+Prisoner's Dilemma,208,10,0.7142857142857143
+Prisoner's Dilemma,209,8,0.5714285714285714
+Prisoner's Dilemma,216,6,0.5
+Prisoner's Dilemma,218,8,0.5714285714285714
+Prisoner's Dilemma,222,8,0.6666666666666666
+Prisoner's Dilemma,225,10,0.7142857142857143
+Prisoner's Dilemma,226,7,0.5384615384615384
+Prisoner's Dilemma,227,5,0.45454545454545453
+Prisoner's Dilemma,228,7,0.5384615384615384
+Prisoner's Dilemma,229,9,0.6
+Prisoner's Dilemma,230,8,0.6666666666666666
+Prisoner's Dilemma,236,7,0.5384615384615384
+Prisoner's Dilemma,237,9,0.6
+Prisoner's Dilemma,241,8,0.5714285714285714
+Prisoner's Dilemma,243,6,0.6
+Prisoner's Dilemma,245,9,0.5294117647058824
+Prisoner's Dilemma,249,8,0.6666666666666666
+Prisoner's Dilemma,251,3,0.3333333333333333
+Prisoner's Dilemma,253,12,0.6666666666666666
+Prisoner's Dilemma,256,12,0.75
+Prisoner's Dilemma,258,7,0.5384615384615384
+Prisoner's Dilemma,260,7,0.6363636363636364
+Prisoner's Dilemma,262,8,0.6666666666666666
+Prisoner's Dilemma,265,10,0.7142857142857143
+Prisoner's Dilemma,266,6,0.5
+Prisoner's Dilemma,267,9,0.6
+Prisoner's Dilemma,270,7,0.5384615384615384
+Prisoner's Dilemma,273,8,0.6666666666666666
+Prisoner's Dilemma,277,7,0.5384615384615384
+Prisoner's Dilemma,278,7,0.5384615384615384
+Prisoner's Dilemma,279,8,0.5714285714285714
+Prisoner's Dilemma,283,10,0.625
+Prisoner's Dilemma,285,10,0.625
+Prisoner's Dilemma,287,4,0.4
+Prisoner's Dilemma,289,11,0.6470588235294118
+Prisoner's Dilemma,293,8,0.5714285714285714
+Prisoner's Dilemma,295,3,0.3333333333333333
+Prisoner's Dilemma,297,7,0.5384615384615384
+Prisoner's Dilemma,298,6,0.6
+Prisoner's Dilemma,300,6,0.42857142857142855
+Prisoner's Dilemma,302,8,0.6666666666666666
+Prisoner's Dilemma,303,9,0.6923076923076923
+Prisoner's Dilemma,305,7,0.4666666666666667
+Prisoner's Dilemma,306,6,0.5
+Prisoner's Dilemma,307,10,0.625
+Prisoner's Dilemma,309,8,0.6666666666666666
+Prisoner's Dilemma,310,12,0.6666666666666666
+Prisoner's Dilemma,316,7,0.6363636363636364
+Prisoner's Dilemma,317,7,0.5384615384615384
+Prisoner's Dilemma,318,10,0.625
+Prisoner's Dilemma,325,10,0.625
+Prisoner's Dilemma,336,4,0.4
+Prisoner's Dilemma,337,12,0.6666666666666666
+Prisoner's Dilemma,346,7,0.6363636363636364
+Prisoner's Dilemma,347,4,0.3333333333333333
+Prisoner's Dilemma,354,8,0.5714285714285714
+Prisoner's Dilemma,357,7,0.4666666666666667
+Prisoner's Dilemma,359,6,0.5
+Prisoner's Dilemma,361,8,0.6666666666666666
+Prisoner's Dilemma,362,10,0.625
+Prisoner's Dilemma,365,6,0.5
+Prisoner's Dilemma,366,10,0.7142857142857143
+Prisoner's Dilemma,372,6,0.6
+Prisoner's Dilemma,373,8,0.5714285714285714
+Prisoner's Dilemma,375,8,0.6666666666666666
+Prisoner's Dilemma,378,8,0.5714285714285714
+Prisoner's Dilemma,384,8,0.5714285714285714
+Prisoner's Dilemma,388,8,0.5714285714285714
+Prisoner's Dilemma,389,2,0.25
+Prisoner's Dilemma,390,8,0.5714285714285714
+Prisoner's Dilemma,392,8,0.5714285714285714
+Prisoner's Dilemma,395,8,0.6666666666666666
+Prisoner's Dilemma,396,8,0.6666666666666666
+Prisoner's Dilemma,399,5,0.45454545454545453
+Prisoner's Dilemma,403,3,0.3333333333333333
+Prisoner's Dilemma,405,7,0.5384615384615384
+Prisoner's Dilemma,410,2,0.25
+Prisoner's Dilemma,414,8,0.5714285714285714
+Prisoner's Dilemma,417,7,0.5384615384615384
+Prisoner's Dilemma,422,5,0.38461538461538464
+Prisoner's Dilemma,423,8,0.5714285714285714
+Prisoner's Dilemma,425,11,0.6470588235294118
+Prisoner's Dilemma,430,6,0.42857142857142855
+Prisoner's Dilemma,433,6,0.5
+Prisoner's Dilemma,434,7,0.6363636363636364
+Prisoner's Dilemma,438,9,0.5294117647058824
+Prisoner's Dilemma,445,6,0.5
+Prisoner's Dilemma,448,7,0.5384615384615384
+Prisoner's Dilemma,449,4,0.5
+Prisoner's Dilemma,450,12,0.75
+Prisoner's Dilemma,452,10,0.7142857142857143
+Prisoner's Dilemma,453,7,0.5384615384615384
+Prisoner's Dilemma,456,7,0.5384615384615384
+Prisoner's Dilemma,457,10,0.625
+Prisoner's Dilemma,459,6,0.5
+Prisoner's Dilemma,460,9,0.5294117647058824
+Prisoner's Dilemma,461,4,0.5
+Prisoner's Dilemma,462,8,0.5714285714285714
+Prisoner's Dilemma,479,14,0.7777777777777778
+Prisoner's Dilemma,484,9,0.6
+Prisoner's Dilemma,491,13,0.6842105263157895
+Prisoner's Dilemma,496,8,0.5714285714285714
+Prisoner's Dilemma,497,6,0.42857142857142855
+Prisoner's Dilemma,500,8,0.5714285714285714
+Prisoner's Dilemma,504,10,0.625
+Prisoner's Dilemma,506,9,0.6923076923076923
+Prisoner's Dilemma,508,2,0.25
+Prisoner's Dilemma,510,6,0.5
+Prisoner's Dilemma,511,6,0.6
+Prisoner's Dilemma,513,10,0.625
+Prisoner's Dilemma,514,8,0.5714285714285714
+Prisoner's Dilemma,516,3,0.3333333333333333
+Prisoner's Dilemma,520,6,0.5
+Prisoner's Dilemma,521,6,0.5
+Prisoner's Dilemma,522,2,0.2
+Prisoner's Dilemma,523,9,0.6
+Prisoner's Dilemma,525,11,0.6470588235294118
+Prisoner's Dilemma,528,10,0.625
+Prisoner's Dilemma,531,8,0.5714285714285714
+Prisoner's Dilemma,535,8,0.6666666666666666
+Prisoner's Dilemma,536,7,0.6363636363636364
+Prisoner's Dilemma,539,9,0.6
+Prisoner's Dilemma,540,3,0.3333333333333333
+Prisoner's Dilemma,541,10,0.7142857142857143
+Prisoner's Dilemma,542,6,0.5
+Prisoner's Dilemma,543,7,0.6363636363636364
+Prisoner's Dilemma,544,8,0.5714285714285714
+Prisoner's Dilemma,546,8,0.6666666666666666
+Prisoner's Dilemma,548,7,0.6363636363636364
+Prisoner's Dilemma,555,4,0.5
+Prisoner's Dilemma,556,5,0.5555555555555556
+Prisoner's Dilemma,561,7,0.6363636363636364
+Prisoner's Dilemma,562,7,0.6363636363636364
+Prisoner's Dilemma,573,5,0.45454545454545453
+Prisoner's Dilemma,574,6,0.5
+Prisoner's Dilemma,577,8,0.5714285714285714
+Prisoner's Dilemma,580,9,0.6
+Prisoner's Dilemma,591,3,0.3333333333333333
+Prisoner's Dilemma,595,12,0.75
+Prisoner's Dilemma,602,9,0.6923076923076923
+Prisoner's Dilemma,604,7,0.5384615384615384
+Prisoner's Dilemma,606,9,0.6923076923076923
+Prisoner's Dilemma,607,8,0.5714285714285714
+Prisoner's Dilemma,614,9,0.6923076923076923
+Prisoner's Dilemma,618,5,0.45454545454545453
+Prisoner's Dilemma,632,8,0.5714285714285714
+Prisoner's Dilemma,635,6,0.5
+Prisoner's Dilemma,638,8,0.5714285714285714
+Prisoner's Dilemma,639,10,0.5555555555555556
+Prisoner's Dilemma,643,3,0.3333333333333333
+Prisoner's Dilemma,655,9,0.6
+Prisoner's Dilemma,657,2,0.25
+Prisoner's Dilemma,659,6,0.5
+Prisoner's Dilemma,660,9,0.6923076923076923
+Prisoner's Dilemma,664,11,0.6470588235294118
+Prisoner's Dilemma,666,12,0.75
+Prisoner's Dilemma,676,1,0.2
+Prisoner's Dilemma,683,6,0.6
+Prisoner's Dilemma,685,7,0.5384615384615384
+Prisoner's Dilemma,687,6,0.42857142857142855
+Prisoner's Dilemma,688,9,0.5294117647058824
+Prisoner's Dilemma,692,9,0.6
+Prisoner's Dilemma,693,8,0.5714285714285714
+Prisoner's Dilemma,694,8,0.6666666666666666
+Prisoner's Dilemma,695,4,0.4
+Prisoner's Dilemma,698,5,0.5555555555555556
+Prisoner's Dilemma,699,6,0.6
+Prisoner's Dilemma,703,7,0.6363636363636364
+Prisoner's Dilemma,706,13,0.7647058823529411
+Prisoner's Dilemma,709,4,0.5
+Prisoner's Dilemma,714,8,0.5714285714285714
+Prisoner's Dilemma,715,8,0.5714285714285714
+Prisoner's Dilemma,718,11,0.6470588235294118
+Prisoner's Dilemma,722,10,0.7142857142857143
+Prisoner's Dilemma,724,8,0.5714285714285714
+Prisoner's Dilemma,725,6,0.6
+Prisoner's Dilemma,726,6,0.42857142857142855
+Prisoner's Dilemma,729,11,0.6470588235294118
+Prisoner's Dilemma,737,6,0.5
+Prisoner's Dilemma,738,6,0.6
+Prisoner's Dilemma,741,3,0.42857142857142855
+Prisoner's Dilemma,745,8,0.5714285714285714
+Prisoner's Dilemma,749,6,0.6
+Prisoner's Dilemma,759,7,0.5384615384615384
+Prisoner's Dilemma,762,6,0.6
+Prisoner's Dilemma,768,7,0.4666666666666667
+Prisoner's Dilemma,777,9,0.6
+Prisoner's Dilemma,781,6,0.5
+Prisoner's Dilemma,783,5,0.5555555555555556
+Prisoner's Dilemma,784,10,0.625
+Prisoner's Dilemma,786,7,0.5384615384615384
+Prisoner's Dilemma,791,6,0.5
+Prisoner's Dilemma,792,7,0.5384615384615384
+Prisoner's Dilemma,795,8,0.6666666666666666
+Prisoner's Dilemma,796,8,0.5714285714285714
+Prisoner's Dilemma,798,10,0.625
+Prisoner's Dilemma,799,7,0.6363636363636364
+Prisoner's Dilemma,806,11,0.6470588235294118
+Prisoner's Dilemma,808,11,0.6470588235294118
+Prisoner's Dilemma,810,7,0.5384615384615384
+Prisoner's Dilemma,811,9,0.6
+Prisoner's Dilemma,812,9,0.6
+Prisoner's Dilemma,814,6,0.5
+Prisoner's Dilemma,821,10,0.625
+Prisoner's Dilemma,825,10,0.625
+Prisoner's Dilemma,826,7,0.5384615384615384
+Prisoner's Dilemma,830,6,0.5
+Prisoner's Dilemma,832,10,0.625
+Prisoner's Dilemma,834,8,0.5714285714285714
+Prisoner's Dilemma,835,6,0.6
+Prisoner's Dilemma,838,8,0.5714285714285714
+Prisoner's Dilemma,840,8,0.5714285714285714
+Prisoner's Dilemma,841,6,0.5
+Prisoner's Dilemma,844,5,0.45454545454545453
+Prisoner's Dilemma,845,9,0.6923076923076923
+Prisoner's Dilemma,846,3,0.3333333333333333
+Prisoner's Dilemma,849,8,0.5714285714285714
+Prisoner's Dilemma,854,2,0.25
+Prisoner's Dilemma,858,6,0.6
+Prisoner's Dilemma,860,2,0.25
+Prisoner's Dilemma,861,7,0.5384615384615384
+Prisoner's Dilemma,863,6,0.5
+Prisoner's Dilemma,864,1,0.2
+Prisoner's Dilemma,872,2,0.3333333333333333
+Prisoner's Dilemma,875,7,0.6363636363636364
+Prisoner's Dilemma,878,11,0.7333333333333333
+Prisoner's Dilemma,880,6,0.5
+Prisoner's Dilemma,884,6,0.5
+Prisoner's Dilemma,885,6,0.6
+Prisoner's Dilemma,887,9,0.6
+Prisoner's Dilemma,890,7,0.5384615384615384
+Prisoner's Dilemma,893,10,0.625
+Prisoner's Dilemma,895,6,0.6
+Prisoner's Dilemma,902,10,0.625
+Prisoner's Dilemma,904,9,0.6
+Prisoner's Dilemma,905,6,0.5
+Prisoner's Dilemma,908,5,0.45454545454545453
+Prisoner's Dilemma,909,8,0.5714285714285714
+Prisoner's Dilemma,912,8,0.5714285714285714
+Prisoner's Dilemma,915,12,0.6666666666666666
+Prisoner's Dilemma,916,6,0.6
+Prisoner's Dilemma,918,4,0.5
+Prisoner's Dilemma,919,7,0.5384615384615384
+Prisoner's Dilemma,920,9,0.6
+Prisoner's Dilemma,921,2,0.3333333333333333
+Prisoner's Dilemma,927,11,0.6470588235294118
+Prisoner's Dilemma,928,6,0.5
+Prisoner's Dilemma,932,6,0.5
+Prisoner's Dilemma,934,5,0.45454545454545453
+Prisoner's Dilemma,936,8,0.5714285714285714
+Prisoner's Dilemma,938,6,0.5
+Prisoner's Dilemma,942,5,0.45454545454545453
+Prisoner's Dilemma,943,6,0.6
+Prisoner's Dilemma,944,9,0.6
+Prisoner's Dilemma,945,3,0.3333333333333333
+Prisoner's Dilemma,946,6,0.5
+Prisoner's Dilemma,947,2,0.3333333333333333
+Prisoner's Dilemma,950,6,0.75
+Prisoner's Dilemma,951,10,0.7142857142857143
+Prisoner's Dilemma,954,9,0.6923076923076923
+Prisoner's Dilemma,955,9,0.6
+Prisoner's Dilemma,960,4,0.4
+Prisoner's Dilemma,961,7,0.6363636363636364
+Prisoner's Dilemma,963,10,0.7142857142857143
+Prisoner's Dilemma,968,7,0.5384615384615384
+Prisoner's Dilemma,973,10,0.625
+Prisoner's Dilemma,974,8,0.5714285714285714
+Prisoner's Dilemma,975,9,0.6923076923076923
+Prisoner's Dilemma,983,7,0.6363636363636364
+Prisoner's Dilemma,984,4,0.4
+Prisoner's Dilemma,986,2,0.25
+Prisoner's Dilemma,989,6,0.5
+Prisoner's Dilemma,991,6,0.42857142857142855
+Prisoner's Dilemma,993,8,0.5714285714285714
+Prisoner's Dilemma,994,6,0.5
+Prisoner's Dilemma,995,6,0.5
+Prisoner's Dilemma,999,10,0.7142857142857143
+Prisoner's Dilemma,1001,8,0.5714285714285714
+Prisoner's Dilemma,1009,3,0.3333333333333333
+Prisoner's Dilemma,1010,8,0.5714285714285714
+Prisoner's Dilemma,1012,6,0.5
+Prisoner's Dilemma,1017,8,0.6666666666666666
+Prisoner's Dilemma,1020,11,0.7333333333333333
+Prisoner's Dilemma,1021,7,0.6363636363636364
+Prisoner's Dilemma,1022,6,0.5
+Prisoner's Dilemma,1028,9,0.6
+Prisoner's Dilemma,1029,8,0.5714285714285714
+Prisoner's Dilemma,1031,7,0.5384615384615384
+Prisoner's Dilemma,1033,4,0.5
+Prisoner's Dilemma,1039,11,0.6470588235294118
+Prisoner's Dilemma,1045,8,0.6666666666666666
+Prisoner's Dilemma,1055,8,0.5714285714285714
+Prisoner's Dilemma,1059,10,0.7142857142857143
+Prisoner's Dilemma,1079,10,0.625
+Prisoner's Dilemma,1084,12,0.75
+Prisoner's Dilemma,1085,8,0.5714285714285714
+Prisoner's Dilemma,1093,11,0.6470588235294118
+Prisoner's Dilemma,1094,10,0.5555555555555556
+Prisoner's Dilemma,1099,10,0.625
+Prisoner's Dilemma,1101,5,0.5555555555555556
+Prisoner's Dilemma,1104,8,0.5714285714285714
+Prisoner's Dilemma,1107,9,0.6923076923076923
+Prisoner's Dilemma,1108,6,0.5
+Prisoner's Dilemma,1115,7,0.5384615384615384
+Prisoner's Dilemma,1117,7,0.5384615384615384
+Prisoner's Dilemma,1124,10,0.625
+Prisoner's Dilemma,1133,5,0.5555555555555556
+Prisoner's Dilemma,1139,8,0.5714285714285714
+Prisoner's Dilemma,1150,11,0.6470588235294118
+Prisoner's Dilemma,1157,10,0.7142857142857143
+Prisoner's Dilemma,1158,8,0.6666666666666666
+Prisoner's Dilemma,1159,7,0.5384615384615384
+Prisoner's Dilemma,1161,11,0.6470588235294118
+Prisoner's Dilemma,1162,8,0.6666666666666666
+Prisoner's Dilemma,1164,9,0.6
+Prisoner's Dilemma,1165,12,0.75
+Prisoner's Dilemma,1168,6,0.5
+Prisoner's Dilemma,1169,7,0.5384615384615384
+Prisoner's Dilemma,1172,8,0.6666666666666666
+Prisoner's Dilemma,1180,8,0.6666666666666666
+Prisoner's Dilemma,1182,8,0.5714285714285714
+Prisoner's Dilemma,1188,6,0.5
+Prisoner's Dilemma,1194,8,0.6666666666666666
+Prisoner's Dilemma,1195,8,0.6666666666666666
+Prisoner's Dilemma,1198,7,0.5384615384615384
+Prisoner's Dilemma,1205,5,0.5555555555555556
+Prisoner's Dilemma,1206,6,0.6
+Prisoner's Dilemma,1207,10,0.625
+Prisoner's Dilemma,1217,7,0.5384615384615384
+Prisoner's Dilemma,1219,8,0.6666666666666666
+Prisoner's Dilemma,1220,9,0.6923076923076923
+Prisoner's Dilemma,1223,7,0.4666666666666667
+Prisoner's Dilemma,1231,10,0.625
+Prisoner's Dilemma,1232,6,0.6
+Prisoner's Dilemma,1235,8,0.6666666666666666
+Prisoner's Dilemma,1236,6,0.5
+Prisoner's Dilemma,1237,8,0.6666666666666666
+Prisoner's Dilemma,1238,10,0.625
+Prisoner's Dilemma,1244,9,0.5294117647058824
+Prisoner's Dilemma,1249,7,0.5384615384615384
+Prisoner's Dilemma,1250,8,0.5714285714285714
+Prisoner's Dilemma,1257,6,0.5
+Prisoner's Dilemma,1266,1,0.2
+Prisoner's Dilemma,1272,7,0.5384615384615384
+Prisoner's Dilemma,1274,6,0.5
+Prisoner's Dilemma,1275,3,0.42857142857142855
+Prisoner's Dilemma,1280,8,0.5714285714285714
+Prisoner's Dilemma,1287,8,0.6666666666666666
+Prisoner's Dilemma,1290,2,0.3333333333333333
+Prisoner's Dilemma,1291,8,0.5
+Prisoner's Dilemma,1295,9,0.6923076923076923
+Prisoner's Dilemma,1297,8,0.5714285714285714
+Prisoner's Dilemma,1298,6,0.5
+Prisoner's Dilemma,1301,8,0.6666666666666666
+Prisoner's Dilemma,1307,4,0.4
+Prisoner's Dilemma,1309,11,0.6470588235294118
+Prisoner's Dilemma,1310,9,0.5294117647058824
+Prisoner's Dilemma,1311,7,0.5384615384615384
+Prisoner's Dilemma,1313,6,0.5
+Prisoner's Dilemma,1317,6,0.5
+Prisoner's Dilemma,1323,6,0.42857142857142855
+Prisoner's Dilemma,1328,8,0.5714285714285714
+Prisoner's Dilemma,1329,6,0.5
+Prisoner's Dilemma,1337,5,0.5555555555555556
+Prisoner's Dilemma,1338,7,0.5384615384615384
+Prisoner's Dilemma,1342,8,0.5714285714285714
+Prisoner's Dilemma,1343,10,0.625
+Prisoner's Dilemma,1346,11,0.6470588235294118
+Prisoner's Dilemma,1347,6,0.5
+Prisoner's Dilemma,1349,12,0.6666666666666666
+Prisoner's Dilemma,1352,10,0.625
+Prisoner's Dilemma,1353,9,0.6
+Prisoner's Dilemma,1356,6,0.5
+Prisoner's Dilemma,1364,2,0.25
+Prisoner's Dilemma,1367,6,0.5
+Prisoner's Dilemma,1368,6,0.6
+Prisoner's Dilemma,1370,8,0.5714285714285714
+Prisoner's Dilemma,1372,7,0.6363636363636364
+Prisoner's Dilemma,1373,8,0.5714285714285714
+Prisoner's Dilemma,1376,6,0.6
+Prisoner's Dilemma,1386,11,0.6470588235294118
+Prisoner's Dilemma,1393,8,0.5714285714285714
+Prisoner's Dilemma,1394,5,0.5555555555555556
+Prisoner's Dilemma,1395,10,0.625
+Prisoner's Dilemma,1399,8,0.5714285714285714
+Prisoner's Dilemma,1401,6,0.5
+Prisoner's Dilemma,1405,8,0.6666666666666666
+Prisoner's Dilemma,1409,6,0.5
+Prisoner's Dilemma,1411,5,0.3333333333333333
+Prisoner's Dilemma,1416,3,0.3333333333333333
+Prisoner's Dilemma,1419,2,0.25
+Prisoner's Dilemma,1420,7,0.6363636363636364
+Prisoner's Dilemma,1422,12,0.75
+Prisoner's Dilemma,1423,6,0.5
+Prisoner's Dilemma,1424,8,0.5714285714285714
+Prisoner's Dilemma,1432,3,0.3333333333333333
+Prisoner's Dilemma,1441,8,0.6666666666666666
+Prisoner's Dilemma,1461,7,0.5384615384615384
+Prisoner's Dilemma,1466,9,0.6923076923076923
+Prisoner's Dilemma,1467,8,0.6666666666666666
+Prisoner's Dilemma,1469,10,0.625
+Prisoner's Dilemma,1478,6,0.5
+Prisoner's Dilemma,1480,8,0.6666666666666666
+Prisoner's Dilemma,1481,2,0.25
+Prisoner's Dilemma,1482,7,0.5384615384615384
+Prisoner's Dilemma,1488,6,0.5
+Prisoner's Dilemma,1490,11,0.6470588235294118
+Prisoner's Dilemma,1494,7,0.5384615384615384
+Prisoner's Dilemma,1497,7,0.5384615384615384
+Prisoner's Dilemma,1500,7,0.6363636363636364
+Prisoner's Dilemma,1501,7,0.6363636363636364
+Prisoner's Dilemma,1507,8,0.6666666666666666
+Prisoner's Dilemma,1512,6,0.6
+Prisoner's Dilemma,1516,9,0.6
+Prisoner's Dilemma,1519,11,0.6470588235294118
+Prisoner's Dilemma,1521,9,0.6
+Prisoner's Dilemma,1522,7,0.5384615384615384
+Prisoner's Dilemma,1528,8,0.5714285714285714
+Prisoner's Dilemma,1530,1,0.14285714285714285
+Prisoner's Dilemma,1532,7,0.5384615384615384
+Chicken,5,0,0.0
+Chicken,9,4,0.25
+Chicken,26,-1,-0.06666666666666667
+Chicken,27,0,0.0
+Chicken,30,1,0.06666666666666667
+Chicken,45,-1,-0.058823529411764705
+Chicken,54,1,0.05555555555555555
+Chicken,56,1,0.058823529411764705
+Chicken,69,0,0.0
+Chicken,70,0,0.0
+Chicken,76,1,0.058823529411764705
+Chicken,80,5,0.2777777777777778
+Chicken,81,0,0.0
+Chicken,90,1,0.06666666666666667
+Chicken,111,3,0.2
+Chicken,112,2,0.11764705882352941
+Chicken,114,0,0.0
+Chicken,117,0,0.0
+Chicken,122,1,0.07142857142857142
+Chicken,127,0,0.0
+Chicken,128,2,0.14285714285714285
+Chicken,130,1,0.07142857142857142
+Chicken,133,2,0.14285714285714285
+Chicken,135,0,0.0
+Chicken,136,5,0.29411764705882354
+Chicken,138,2,0.11764705882352941
+Chicken,139,0,0.0
+Chicken,143,1,0.0625
+Chicken,144,6,0.35294117647058826
+Chicken,148,0,0.0
+Chicken,149,1,0.05263157894736842
+Chicken,152,2,0.13333333333333333
+Chicken,153,0,0.0
+Chicken,155,0,0.0
+Chicken,159,3,0.23076923076923078
+Chicken,166,2,0.1111111111111111
+Chicken,167,0,0.0
+Chicken,171,2,0.13333333333333333
+Chicken,180,0,0.0
+Chicken,182,1,0.0625
+Chicken,187,0,0.0
+Chicken,190,1,0.058823529411764705
+Chicken,192,4,0.23529411764705882
+Chicken,193,0,0.0
+Chicken,195,0,0.0
+Chicken,197,0,0.0
+Chicken,203,0,0.0
+Chicken,207,3,0.2
+Chicken,212,1,0.058823529411764705
+Chicken,220,1,0.06666666666666667
+Chicken,233,1,0.0625
+Chicken,235,-1,-0.058823529411764705
+Chicken,246,2,0.13333333333333333
+Chicken,250,1,0.0625
+Chicken,259,1,0.058823529411764705
+Chicken,261,2,0.13333333333333333
+Chicken,268,1,0.07142857142857142
+Chicken,269,0,0.0
+Chicken,274,0,0.0
+Chicken,281,0,0.0
+Chicken,282,0,0.0
+Chicken,294,4,0.25
+Chicken,299,1,0.0625
+Chicken,312,1,0.07142857142857142
+Chicken,314,1,0.058823529411764705
+Chicken,315,1,0.07142857142857142
+Chicken,323,2,0.11764705882352941
+Chicken,332,1,0.07142857142857142
+Chicken,333,1,0.07142857142857142
+Chicken,334,3,0.17647058823529413
+Chicken,335,0,0.0
+Chicken,339,1,0.058823529411764705
+Chicken,340,0,0.0
+Chicken,342,0,0.0
+Chicken,345,-1,-0.07142857142857142
+Chicken,348,1,0.0625
+Chicken,351,0,0.0
+Chicken,353,1,0.058823529411764705
+Chicken,355,1,0.06666666666666667
+Chicken,356,0,0.0
+Chicken,367,0,0.0
+Chicken,376,1,0.0625
+Chicken,379,2,0.11764705882352941
+Chicken,382,0,0.0
+Chicken,385,0,0.0
+Chicken,386,1,0.07692307692307693
+Chicken,393,0,0.0
+Chicken,397,1,0.058823529411764705
+Chicken,402,2,0.11764705882352941
+Chicken,404,0,0.0
+Chicken,406,1,0.0625
+Chicken,409,2,0.125
+Chicken,418,0,0.0
+Chicken,424,3,0.17647058823529413
+Chicken,429,0,0.0
+Chicken,431,2,0.125
+Chicken,435,-1,-0.06666666666666667
+Chicken,439,1,0.07692307692307693
+Chicken,441,2,0.1111111111111111
+Chicken,442,2,0.11764705882352941
+Chicken,443,1,0.07142857142857142
+Chicken,446,0,0.0
+Chicken,447,1,0.058823529411764705
+Chicken,455,4,0.25
+Chicken,466,1,0.07692307692307693
+Chicken,472,0,0.0
+Chicken,474,2,0.11764705882352941
+Chicken,483,2,0.15384615384615385
+Chicken,485,8,0.47058823529411764
+Chicken,487,0,0.0
+Chicken,488,1,0.07142857142857142
+Chicken,495,1,0.07142857142857142
+Chicken,498,0,0.0
+Chicken,509,4,0.25
+Chicken,519,0,0.0
+Chicken,526,1,0.058823529411764705
+Chicken,530,0,0.0
+Chicken,532,1,0.06666666666666667
+Chicken,537,-1,-0.0625
+Chicken,549,0,0.0
+Chicken,552,0,0.0
+Chicken,553,2,0.11764705882352941
+Chicken,554,2,0.1111111111111111
+Chicken,559,-1,-0.058823529411764705
+Chicken,564,0,0.0
+Chicken,572,0,0.0
+Chicken,576,5,0.29411764705882354
+Chicken,582,3,0.1875
+Chicken,588,1,0.058823529411764705
+Chicken,590,0,0.0
+Chicken,594,1,0.05555555555555555
+Chicken,608,2,0.14285714285714285
+Chicken,609,2,0.125
+Chicken,619,0,0.0
+Chicken,620,1,0.058823529411764705
+Chicken,621,-1,-0.06666666666666667
+Chicken,624,1,0.07142857142857142
+Chicken,625,0,0.0
+Chicken,628,2,0.125
+Chicken,630,2,0.14285714285714285
+Chicken,633,1,0.06666666666666667
+Chicken,636,4,0.25
+Chicken,641,1,0.05555555555555555
+Chicken,645,2,0.11764705882352941
+Chicken,649,2,0.11764705882352941
+Chicken,650,1,0.058823529411764705
+Chicken,656,0,0.0
+Chicken,661,2,0.11764705882352941
+Chicken,662,2,0.125
+Chicken,669,2,0.15384615384615385
+Chicken,671,-1,-0.0625
+Chicken,672,0,0.0
+Chicken,678,-2,-0.1111111111111111
+Chicken,679,2,0.11764705882352941
+Chicken,680,5,0.3125
+Chicken,684,1,0.058823529411764705
+Chicken,686,2,0.11764705882352941
+Chicken,689,3,0.1875
+Chicken,691,1,0.07142857142857142
+Chicken,700,0,0.0
+Chicken,704,0,0.0
+Chicken,710,1,0.0625
+Chicken,712,4,0.25
+Chicken,717,1,0.07142857142857142
+Chicken,719,2,0.14285714285714285
+Chicken,720,5,0.3125
+Chicken,728,0,0.0
+Chicken,736,1,0.0625
+Chicken,743,-1,-0.07692307692307693
+Chicken,746,0,0.0
+Chicken,747,1,0.0625
+Chicken,751,0,0.0
+Chicken,752,0,0.0
+Chicken,754,0,0.0
+Chicken,755,-2,-0.125
+Chicken,757,-1,-0.07142857142857142
+Chicken,760,0,0.0
+Chicken,761,2,0.125
+Chicken,763,-2,-0.1111111111111111
+Chicken,766,1,0.058823529411764705
+Chicken,773,0,0.0
+Chicken,776,1,0.058823529411764705
+Chicken,779,2,0.10526315789473684
+Chicken,782,2,0.14285714285714285
+Chicken,790,1,0.058823529411764705
+Chicken,793,0,0.0
+Chicken,797,0,0.0
+Chicken,801,1,0.058823529411764705
+Chicken,802,2,0.14285714285714285
+Chicken,804,0,0.0
+Chicken,809,2,0.14285714285714285
+Chicken,819,-1,-0.058823529411764705
+Chicken,822,1,0.058823529411764705
+Chicken,828,3,0.23076923076923078
+Chicken,829,1,0.058823529411764705
+Chicken,833,0,0.0
+Chicken,837,1,0.07142857142857142
+Chicken,839,3,0.16666666666666666
+Chicken,847,0,0.0
+Chicken,852,1,0.0625
+Chicken,853,1,0.0625
+Chicken,855,0,0.0
+Chicken,865,2,0.11764705882352941
+Chicken,869,4,0.25
+Chicken,873,6,0.42857142857142855
+Chicken,876,-1,-0.07142857142857142
+Chicken,888,2,0.125
+Chicken,897,0,0.0
+Chicken,898,4,0.25
+Chicken,901,1,0.07142857142857142
+Chicken,907,-1,-0.058823529411764705
+Chicken,910,2,0.1111111111111111
+Chicken,914,1,0.08333333333333333
+Chicken,924,1,0.0625
+Chicken,935,1,0.06666666666666667
+Chicken,940,1,0.0625
+Chicken,952,1,0.058823529411764705
+Chicken,953,1,0.058823529411764705
+Chicken,959,1,0.07142857142857142
+Chicken,965,0,0.0
+Chicken,970,19,1.1875
+Chicken,971,2,0.14285714285714285
+Chicken,979,1,0.058823529411764705
+Chicken,981,3,0.23076923076923078
+Chicken,982,0,0.0
+Chicken,990,1,0.07692307692307693
+Chicken,996,0,0.0
+Chicken,1003,1,0.07692307692307693
+Chicken,1005,0,0.0
+Chicken,1013,2,0.1
+Chicken,1015,0,0.0
+Chicken,1018,1,0.058823529411764705
+Chicken,1030,0,0.0
+Chicken,1032,1,0.07142857142857142
+Chicken,1035,2,0.14285714285714285
+Chicken,1036,1,0.058823529411764705
+Chicken,1037,0,0.0
+Chicken,1043,2,0.14285714285714285
+Chicken,1044,1,0.05555555555555555
+Chicken,1046,1,0.07142857142857142
+Chicken,1047,1,0.058823529411764705
+Chicken,1050,0,0.0
+Chicken,1054,0,0.0
+Chicken,1056,1,0.06666666666666667
+Chicken,1060,0,0.0
+Chicken,1061,4,0.23529411764705882
+Chicken,1062,0,0.0
+Chicken,1063,0,0.0
+Chicken,1078,0,0.0
+Chicken,1081,1,0.07142857142857142
+Chicken,1082,2,0.1111111111111111
+Chicken,1086,2,0.11764705882352941
+Chicken,1087,1,0.058823529411764705
+Chicken,1088,0,0.0
+Chicken,1095,0,0.0
+Chicken,1097,0,0.0
+Chicken,1098,0,0.0
+Chicken,1106,2,0.14285714285714285
+Chicken,1110,4,0.25
+Chicken,1121,0,0.0
+Chicken,1122,0,0.0
+Chicken,1128,3,0.16666666666666666
+Chicken,1129,0,0.0
+Chicken,1130,1,0.09090909090909091
+Chicken,1131,1,0.07142857142857142
+Chicken,1132,0,0.0
+Chicken,1134,0,0.0
+Chicken,1137,2,0.11764705882352941
+Chicken,1146,2,0.11764705882352941
+Chicken,1147,2,0.11764705882352941
+Chicken,1149,0,0.0
+Chicken,1152,1,0.058823529411764705
+Chicken,1155,0,0.0
+Chicken,1156,4,0.2857142857142857
+Chicken,1166,0,0.0
+Chicken,1174,0,0.0
+Chicken,1177,1,0.058823529411764705
+Chicken,1179,1,0.07142857142857142
+Chicken,1181,2,0.125
+Chicken,1184,1,0.07142857142857142
+Chicken,1185,1,0.06666666666666667
+Chicken,1186,1,0.1
+Chicken,1192,1,0.07142857142857142
+Chicken,1197,2,0.125
+Chicken,1199,2,0.125
+Chicken,1201,0,0.0
+Chicken,1212,2,0.14285714285714285
+Chicken,1214,-1,-0.058823529411764705
+Chicken,1215,2,0.11764705882352941
+Chicken,1218,0,0.0
+Chicken,1221,3,0.23076923076923078
+Chicken,1222,2,0.125
+Chicken,1225,0,0.0
+Chicken,1239,1,0.058823529411764705
+Chicken,1241,1,0.058823529411764705
+Chicken,1242,2,0.13333333333333333
+Chicken,1245,2,0.11764705882352941
+Chicken,1246,2,0.125
+Chicken,1247,4,0.23529411764705882
+Chicken,1251,0,0.0
+Chicken,1253,2,0.125
+Chicken,1255,3,0.2
+Chicken,1259,4,0.25
+Chicken,1263,1,0.06666666666666667
+Chicken,1265,0,0.0
+Chicken,1268,0,0.0
+Chicken,1271,0,0.0
+Chicken,1273,1,0.058823529411764705
+Chicken,1276,0,0.0
+Chicken,1277,1,0.058823529411764705
+Chicken,1278,-1,-0.07692307692307693
+Chicken,1279,0,0.0
+Chicken,1282,1,0.058823529411764705
+Chicken,1283,2,0.125
+Chicken,1284,1,0.05555555555555555
+Chicken,1285,1,0.058823529411764705
+Chicken,1288,0,0.0
+Chicken,1292,3,0.17647058823529413
+Chicken,1293,5,0.3125
+Chicken,1294,2,0.15384615384615385
+Chicken,1302,2,0.13333333333333333
+Chicken,1304,1,0.058823529411764705
+Chicken,1308,1,0.05555555555555555
+Chicken,1312,5,0.3125
+Chicken,1315,1,0.0625
+Chicken,1316,2,0.11764705882352941
+Chicken,1318,0,0.0
+Chicken,1321,-1,-0.0625
+Chicken,1326,1,0.07142857142857142
+Chicken,1331,6,0.35294117647058826
+Chicken,1332,1,0.07142857142857142
+Chicken,1334,2,0.125
+Chicken,1340,2,0.11764705882352941
+Chicken,1341,1,0.07692307692307693
+Chicken,1344,2,0.11764705882352941
+Chicken,1345,1,0.07142857142857142
+Chicken,1359,2,0.11764705882352941
+Chicken,1361,0,0.0
+Chicken,1363,2,0.14285714285714285
+Chicken,1366,1,0.06666666666666667
+Chicken,1374,2,0.15384615384615385
+Chicken,1378,1,0.07142857142857142
+Chicken,1379,1,0.058823529411764705
+Chicken,1384,0,0.0
+Chicken,1387,1,0.07142857142857142
+Chicken,1389,0,0.0
+Chicken,1390,0,0.0
+Chicken,1403,2,0.125
+Chicken,1414,0,0.0
+Chicken,1421,3,0.1875
+Chicken,1425,0,0.0
+Chicken,1430,2,0.125
+Chicken,1433,0,0.0
+Chicken,1438,1,0.07142857142857142
+Chicken,1439,2,0.125
+Chicken,1444,-1,-0.058823529411764705
+Chicken,1447,-1,-0.06666666666666667
+Chicken,1455,1,0.0625
+Chicken,1462,1,0.058823529411764705
+Chicken,1463,0,0.0
+Chicken,1468,0,0.0
+Chicken,1470,5,0.3125
+Chicken,1472,0,0.0
+Chicken,1475,1,0.07142857142857142
+Chicken,1476,0,0.0
+Chicken,1491,0,0.0
+Chicken,1492,1,0.05555555555555555
+Chicken,1493,1,0.058823529411764705
+Chicken,1495,5,0.29411764705882354
+Chicken,1498,0,0.0
+Chicken,1499,1,0.058823529411764705
+Chicken,1503,2,0.11764705882352941
+Chicken,1505,1,0.07142857142857142
+Chicken,1508,0,0.0
+Chicken,1518,1,0.07142857142857142
+Chicken,1520,1,0.07142857142857142
+Chicken,1524,3,0.17647058823529413
+Chicken,1527,0,0.0
+Chicken,1534,-1,-0.058823529411764705

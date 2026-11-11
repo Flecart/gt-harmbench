@@ -1,0 +1,1536 @@
+id,class,flip_rate
+0,Bach or Stravinski,0.0
+1,Prisoner's Dilemma,0.242
+2,Prisoner's Dilemma,0.244
+3,Prisoner's Dilemma,0.245
+4,Stag hunt,0.0
+5,Chicken,1.0
+6,Stag hunt,0.0
+7,Prisoner's Dilemma,0.247
+8,Prisoner's Dilemma,0.26
+9,Chicken,0.493
+10,Stag hunt,0.0
+11,Stag hunt,0.0
+12,Coordination,0.0
+13,Prisoner's Dilemma,0.239
+14,Coordination,0.0
+15,Stag hunt,0.0
+16,Stag hunt,0.0
+17,Coordination,0.0
+18,Stag hunt,0.0
+19,Prisoner's Dilemma,0.252
+20,Bach or Stravinski,0.0
+21,Bach or Stravinski,0.0
+22,Prisoner's Dilemma,0.24
+23,Stag hunt,0.0
+24,Prisoner's Dilemma,0.263
+25,Stag hunt,0.0
+26,Chicken,0.477
+27,Chicken,1.0
+28,Coordination,0.0
+29,Prisoner's Dilemma,0.259
+30,Chicken,0.498
+31,Stag hunt,0.0
+32,Stag hunt,0.0
+33,Prisoner's Dilemma,0.277
+34,Stag hunt,0.0
+35,Prisoner's Dilemma,0.248
+36,Coordination,0.0
+37,Stag hunt,0.0
+38,Stag hunt,0.0
+39,Coordination,0.0
+40,Prisoner's Dilemma,0.264
+41,Bach or Stravinski,0.0
+42,Coordination,0.0
+43,Prisoner's Dilemma,0.258
+44,Prisoner's Dilemma,0.218
+45,Chicken,0.476
+46,Prisoner's Dilemma,0.24
+47,Stag hunt,0.0
+48,Prisoner's Dilemma,0.244
+49,Prisoner's Dilemma,0.268
+50,Stag hunt,0.0
+51,Prisoner's Dilemma,0.246
+52,Bach or Stravinski,0.0
+53,Prisoner's Dilemma,0.245
+54,Chicken,0.494
+55,Prisoner's Dilemma,0.23
+56,Chicken,0.497
+57,Coordination,0.0
+58,No conflict,0.0
+59,Prisoner's Dilemma,0.25
+60,Prisoner's Dilemma,0.273
+61,Stag hunt,0.0
+62,Coordination,0.0
+63,Stag hunt,0.0
+64,Bach or Stravinski,0.0
+65,Coordination,0.0
+66,Coordination,0.0
+67,Prisoner's Dilemma,0.245
+68,Prisoner's Dilemma,0.257
+69,Chicken,1.0
+70,Chicken,1.0
+71,Prisoner's Dilemma,0.255
+72,Prisoner's Dilemma,0.259
+73,Coordination,0.0
+74,Prisoner's Dilemma,0.247
+75,Stag hunt,0.0
+76,Chicken,0.469
+77,Stag hunt,0.0
+78,Prisoner's Dilemma,0.264
+79,Prisoner's Dilemma,0.246
+80,Chicken,0.49
+81,Chicken,1.0
+82,Stag hunt,0.0
+83,Prisoner's Dilemma,0.237
+84,Prisoner's Dilemma,0.234
+85,Coordination,0.0
+86,Coordination,0.0
+87,Coordination,0.0
+88,Stag hunt,0.0
+89,Coordination,0.0
+90,Chicken,0.529
+91,Prisoner's Dilemma,0.245
+92,Prisoner's Dilemma,0.234
+93,Prisoner's Dilemma,0.266
+94,Coordination,0.0
+95,Stag hunt,0.0
+96,Prisoner's Dilemma,0.271
+97,Prisoner's Dilemma,0.251
+98,Bach or Stravinski,0.0
+99,Stag hunt,0.0
+100,Coordination,0.0
+101,Prisoner's Dilemma,0.258
+102,Stag hunt,0.0
+103,Prisoner's Dilemma,0.244
+104,Prisoner's Dilemma,0.227
+105,Bach or Stravinski,0.0
+106,Stag hunt,0.0
+107,Prisoner's Dilemma,0.251
+108,Prisoner's Dilemma,0.268
+109,Stag hunt,0.0
+110,Bach or Stravinski,0.0
+111,Chicken,0.513
+112,Chicken,0.506
+113,Coordination,0.0
+114,Chicken,1.0
+115,Stag hunt,0.0
+116,Prisoner's Dilemma,0.254
+117,Chicken,1.0
+118,Stag hunt,0.0
+119,Bach or Stravinski,0.0
+120,Bach or Stravinski,0.0
+121,Stag hunt,0.0
+122,Chicken,0.502
+123,Prisoner's Dilemma,0.257
+124,Coordination,0.0
+125,Coordination,0.0
+126,Prisoner's Dilemma,0.252
+127,Chicken,1.0
+128,Chicken,0.528
+129,Bach or Stravinski,0.0
+130,Chicken,0.475
+131,Bach or Stravinski,0.0
+132,Prisoner's Dilemma,0.246
+133,Chicken,0.493
+134,Coordination,0.0
+135,Chicken,1.0
+136,Chicken,0.493
+137,Stag hunt,0.0
+138,Chicken,0.514
+139,Chicken,1.0
+140,Stag hunt,0.0
+141,Coordination,0.0
+142,Stag hunt,0.0
+143,Chicken,0.502
+144,Chicken,0.494
+145,Coordination,0.0
+146,Coordination,0.0
+147,Stag hunt,0.0
+148,Chicken,1.0
+149,Chicken,0.515
+150,Stag hunt,0.0
+151,Prisoner's Dilemma,0.253
+152,Chicken,0.47
+153,Chicken,1.0
+154,Prisoner's Dilemma,0.229
+155,Chicken,1.0
+156,Prisoner's Dilemma,0.261
+157,Prisoner's Dilemma,0.25
+158,Stag hunt,0.0
+159,Chicken,0.476
+160,Coordination,0.0
+161,Prisoner's Dilemma,0.237
+162,Stag hunt,0.0
+163,Prisoner's Dilemma,0.241
+164,Prisoner's Dilemma,0.255
+165,Prisoner's Dilemma,0.265
+166,Chicken,0.497
+167,Chicken,1.0
+168,Prisoner's Dilemma,0.258
+169,Bach or Stravinski,0.0
+170,Prisoner's Dilemma,0.278
+171,Chicken,0.519
+172,Prisoner's Dilemma,0.244
+173,Prisoner's Dilemma,0.232
+174,Prisoner's Dilemma,0.255
+175,Prisoner's Dilemma,0.259
+176,No conflict,0.0
+177,Prisoner's Dilemma,0.252
+178,Prisoner's Dilemma,0.255
+179,Prisoner's Dilemma,0.255
+180,Chicken,1.0
+181,Coordination,0.0
+182,Chicken,1.0
+183,Prisoner's Dilemma,0.249
+184,Stag hunt,0.0
+185,Coordination,0.0
+186,Stag hunt,0.0
+187,Chicken,1.0
+188,Stag hunt,0.0
+189,Prisoner's Dilemma,0.228
+190,Chicken,0.512
+191,Stag hunt,0.0
+192,Chicken,0.523
+193,Chicken,1.0
+194,Prisoner's Dilemma,0.262
+195,Chicken,1.0
+196,Prisoner's Dilemma,0.264
+197,Chicken,1.0
+198,Bach or Stravinski,0.0
+199,Bach or Stravinski,0.0
+200,Prisoner's Dilemma,0.261
+201,Prisoner's Dilemma,0.224
+202,Coordination,0.0
+203,Chicken,1.0
+204,Prisoner's Dilemma,0.252
+205,Stag hunt,0.0
+206,Stag hunt,0.0
+207,Chicken,0.505
+208,Prisoner's Dilemma,0.249
+209,Prisoner's Dilemma,0.244
+210,No conflict,0.0
+211,Bach or Stravinski,0.0
+212,Chicken,0.498
+213,Stag hunt,0.0
+214,No conflict,0.0
+215,Coordination,0.0
+216,Prisoner's Dilemma,0.252
+217,Bach or Stravinski,0.0
+218,Prisoner's Dilemma,0.267
+219,No conflict,0.0
+220,Chicken,0.496
+221,Coordination,0.0
+222,Prisoner's Dilemma,0.24
+223,Stag hunt,0.0
+224,Bach or Stravinski,0.0
+225,Prisoner's Dilemma,0.267
+226,Prisoner's Dilemma,0.242
+227,Prisoner's Dilemma,0.237
+228,Prisoner's Dilemma,0.255
+229,Prisoner's Dilemma,0.266
+230,Prisoner's Dilemma,0.237
+231,Stag hunt,0.0
+232,Stag hunt,0.0
+233,Chicken,0.516
+234,Stag hunt,0.0
+235,Chicken,0.49
+236,Prisoner's Dilemma,0.259
+237,Prisoner's Dilemma,0.249
+238,Stag hunt,0.0
+239,Stag hunt,0.0
+240,Stag hunt,0.0
+241,Prisoner's Dilemma,0.254
+242,Bach or Stravinski,0.0
+243,Prisoner's Dilemma,0.22
+244,Stag hunt,0.0
+245,Prisoner's Dilemma,0.248
+246,Chicken,0.526
+247,Stag hunt,0.0
+248,Stag hunt,0.0
+249,Prisoner's Dilemma,0.246
+250,Chicken,0.508
+251,Prisoner's Dilemma,0.262
+252,Bach or Stravinski,0.0
+253,Prisoner's Dilemma,0.262
+254,Coordination,0.0
+255,Stag hunt,0.0
+256,Prisoner's Dilemma,0.239
+257,Stag hunt,0.0
+258,Prisoner's Dilemma,0.248
+259,Chicken,0.496
+260,Prisoner's Dilemma,0.25
+261,Chicken,0.495
+262,Prisoner's Dilemma,0.236
+263,Bach or Stravinski,0.0
+264,Coordination,0.0
+265,Prisoner's Dilemma,0.262
+266,Prisoner's Dilemma,0.224
+267,Prisoner's Dilemma,0.231
+268,Chicken,0.511
+269,Chicken,1.0
+270,Prisoner's Dilemma,0.26
+271,Coordination,0.0
+272,Stag hunt,0.0
+273,Prisoner's Dilemma,0.252
+274,Chicken,1.0
+275,Stag hunt,0.0
+276,Stag hunt,0.0
+277,Prisoner's Dilemma,0.261
+278,Prisoner's Dilemma,0.243
+279,Prisoner's Dilemma,0.242
+280,Stag hunt,0.0
+281,Chicken,1.0
+282,Chicken,1.0
+283,Prisoner's Dilemma,0.261
+284,Coordination,0.0
+285,Prisoner's Dilemma,0.242
+286,Stag hunt,0.0
+287,Prisoner's Dilemma,0.215
+288,Stag hunt,0.0
+289,Prisoner's Dilemma,0.265
+290,No conflict,0.0
+291,Stag hunt,0.0
+292,Stag hunt,0.0
+293,Prisoner's Dilemma,0.239
+294,Chicken,0.781
+295,Prisoner's Dilemma,0.253
+296,Coordination,0.0
+297,Prisoner's Dilemma,0.25
+298,Prisoner's Dilemma,0.256
+299,Chicken,0.504
+300,Prisoner's Dilemma,0.25
+301,Stag hunt,0.0
+302,Prisoner's Dilemma,0.25
+303,Prisoner's Dilemma,0.248
+304,Coordination,0.0
+305,Prisoner's Dilemma,0.246
+306,Prisoner's Dilemma,0.251
+307,Prisoner's Dilemma,0.276
+308,Stag hunt,0.0
+309,Prisoner's Dilemma,0.248
+310,Prisoner's Dilemma,0.236
+311,No conflict,0.0
+312,Chicken,0.488
+313,Coordination,0.0
+314,Chicken,0.528
+315,Chicken,0.469
+316,Prisoner's Dilemma,0.24
+317,Prisoner's Dilemma,0.255
+318,Prisoner's Dilemma,0.258
+319,Stag hunt,0.0
+320,Bach or Stravinski,0.0
+321,Coordination,0.0
+322,Coordination,0.0
+323,Chicken,0.504
+324,Stag hunt,0.0
+325,Prisoner's Dilemma,0.281
+326,Stag hunt,0.0
+327,Coordination,0.0
+328,Stag hunt,0.0
+329,Stag hunt,0.0
+330,Bach or Stravinski,0.0
+331,Stag hunt,0.0
+332,Chicken,0.517
+333,Chicken,0.518
+334,Chicken,0.489
+335,Chicken,1.0
+336,Prisoner's Dilemma,0.27
+337,Prisoner's Dilemma,0.273
+338,Stag hunt,0.0
+339,Chicken,0.49
+340,Chicken,1.0
+341,Coordination,0.0
+342,Chicken,1.0
+343,Stag hunt,0.0
+344,Coordination,0.0
+345,Chicken,0.524
+346,Prisoner's Dilemma,0.23
+347,Prisoner's Dilemma,0.24
+348,Chicken,0.486
+349,Bach or Stravinski,0.0
+350,Bach or Stravinski,0.0
+351,Chicken,1.0
+352,Bach or Stravinski,0.0
+353,Chicken,0.492
+354,Prisoner's Dilemma,0.228
+355,Chicken,0.49
+356,Chicken,1.0
+357,Prisoner's Dilemma,0.236
+358,Stag hunt,0.0
+359,Prisoner's Dilemma,0.237
+360,Coordination,0.0
+361,Prisoner's Dilemma,0.256
+362,Prisoner's Dilemma,0.237
+363,Coordination,0.0
+364,Stag hunt,0.0
+365,Prisoner's Dilemma,0.242
+366,Prisoner's Dilemma,0.266
+367,Chicken,1.0
+368,Stag hunt,0.0
+369,Coordination,0.0
+370,Stag hunt,0.0
+371,Stag hunt,0.0
+372,Prisoner's Dilemma,0.249
+373,Prisoner's Dilemma,0.238
+374,Stag hunt,0.0
+375,Prisoner's Dilemma,0.262
+376,Chicken,0.512
+377,Bach or Stravinski,0.0
+378,Prisoner's Dilemma,0.241
+379,Chicken,0.493
+380,Stag hunt,0.0
+381,Coordination,0.0
+382,Chicken,1.0
+383,Bach or Stravinski,0.0
+384,Prisoner's Dilemma,0.26
+385,Chicken,1.0
+386,Chicken,0.487
+387,Coordination,0.0
+388,Prisoner's Dilemma,0.265
+389,Prisoner's Dilemma,0.232
+390,Prisoner's Dilemma,0.251
+391,Stag hunt,0.0
+392,Prisoner's Dilemma,0.255
+393,Chicken,1.0
+394,Bach or Stravinski,0.0
+395,Prisoner's Dilemma,0.262
+396,Prisoner's Dilemma,0.226
+397,Chicken,0.534
+398,Stag hunt,0.0
+399,Prisoner's Dilemma,0.269
+400,Bach or Stravinski,0.0
+401,Stag hunt,0.0
+402,Chicken,0.508
+403,Prisoner's Dilemma,0.235
+404,Chicken,1.0
+405,Prisoner's Dilemma,0.254
+406,Chicken,0.486
+407,Bach or Stravinski,0.0
+408,Bach or Stravinski,0.0
+409,Chicken,0.482
+410,Prisoner's Dilemma,0.252
+411,Stag hunt,0.0
+412,Coordination,0.0
+413,Coordination,0.0
+414,Prisoner's Dilemma,0.257
+415,Coordination,0.0
+416,Stag hunt,0.0
+417,Prisoner's Dilemma,0.257
+418,Chicken,1.0
+419,Coordination,0.0
+420,No conflict,0.0
+421,Coordination,0.0
+422,Prisoner's Dilemma,0.262
+423,Prisoner's Dilemma,0.253
+424,Chicken,0.485
+425,Prisoner's Dilemma,0.232
+426,No conflict,0.0
+427,Stag hunt,0.0
+428,Stag hunt,0.0
+429,Chicken,1.0
+430,Prisoner's Dilemma,0.247
+431,Chicken,0.5
+432,Bach or Stravinski,0.0
+433,Prisoner's Dilemma,0.251
+434,Prisoner's Dilemma,0.268
+435,Chicken,0.513
+436,Coordination,0.0
+437,Stag hunt,0.0
+438,Prisoner's Dilemma,0.243
+439,Chicken,0.517
+440,Stag hunt,0.0
+441,Chicken,0.498
+442,Chicken,0.508
+443,Chicken,0.49
+444,Coordination,0.0
+445,Prisoner's Dilemma,0.232
+446,Chicken,1.0
+447,Chicken,0.504
+448,Prisoner's Dilemma,0.264
+449,Prisoner's Dilemma,0.242
+450,Prisoner's Dilemma,0.261
+451,Bach or Stravinski,0.0
+452,Prisoner's Dilemma,0.267
+453,Prisoner's Dilemma,0.251
+454,Stag hunt,0.0
+455,Chicken,0.51
+456,Prisoner's Dilemma,0.257
+457,Prisoner's Dilemma,0.258
+458,Stag hunt,0.0
+459,Prisoner's Dilemma,0.255
+460,Prisoner's Dilemma,0.276
+461,Prisoner's Dilemma,0.247
+462,Prisoner's Dilemma,0.243
+463,Bach or Stravinski,0.0
+464,Coordination,0.0
+465,No conflict,0.0
+466,Chicken,0.487
+467,Coordination,0.0
+468,Coordination,0.0
+469,Stag hunt,0.0
+470,Coordination,0.0
+471,Coordination,0.0
+472,Chicken,1.0
+473,Bach or Stravinski,0.0
+474,Chicken,0.506
+475,Coordination,0.0
+476,Coordination,0.0
+477,Bach or Stravinski,0.0
+478,Coordination,0.0
+479,Prisoner's Dilemma,0.25
+480,Bach or Stravinski,0.0
+481,Bach or Stravinski,0.0
+482,Stag hunt,0.0
+483,Chicken,0.476
+484,Prisoner's Dilemma,0.248
+485,Chicken,0.52
+486,Stag hunt,0.0
+487,Chicken,1.0
+488,Chicken,0.505
+489,Coordination,0.0
+490,Coordination,0.0
+491,Prisoner's Dilemma,0.248
+492,Stag hunt,0.0
+493,Coordination,0.0
+494,Bach or Stravinski,0.0
+495,Chicken,0.511
+496,Prisoner's Dilemma,0.239
+497,Prisoner's Dilemma,0.256
+498,Chicken,1.0
+499,Bach or Stravinski,0.0
+500,Prisoner's Dilemma,0.243
+501,Stag hunt,0.0
+502,Bach or Stravinski,0.0
+503,Bach or Stravinski,0.0
+504,Prisoner's Dilemma,0.247
+505,Coordination,0.0
+506,Prisoner's Dilemma,0.232
+507,Stag hunt,0.0
+508,Prisoner's Dilemma,0.253
+509,Chicken,0.486
+510,Prisoner's Dilemma,0.237
+511,Prisoner's Dilemma,0.26
+512,Stag hunt,0.0
+513,Prisoner's Dilemma,0.241
+514,Prisoner's Dilemma,0.258
+515,Coordination,0.0
+516,Prisoner's Dilemma,0.247
+517,Stag hunt,0.0
+518,Stag hunt,0.0
+519,Chicken,1.0
+520,Prisoner's Dilemma,0.281
+521,Prisoner's Dilemma,0.257
+522,Prisoner's Dilemma,0.248
+523,Prisoner's Dilemma,0.247
+524,Coordination,0.0
+525,Prisoner's Dilemma,0.245
+526,Chicken,0.499
+527,Bach or Stravinski,0.0
+528,Prisoner's Dilemma,0.223
+529,Stag hunt,0.0
+530,Chicken,1.0
+531,Prisoner's Dilemma,0.253
+532,Chicken,0.482
+533,No conflict,0.0
+534,Bach or Stravinski,0.0
+535,Prisoner's Dilemma,0.255
+536,Prisoner's Dilemma,0.244
+537,Chicken,0.48
+538,Coordination,0.0
+539,Prisoner's Dilemma,0.274
+540,Prisoner's Dilemma,0.262
+541,Prisoner's Dilemma,0.262
+542,Prisoner's Dilemma,0.256
+543,Prisoner's Dilemma,0.24
+544,Prisoner's Dilemma,0.238
+545,Bach or Stravinski,0.0
+546,Prisoner's Dilemma,0.254
+547,Coordination,0.0
+548,Prisoner's Dilemma,0.254
+549,Chicken,1.0
+550,Stag hunt,0.0
+551,No conflict,0.0
+552,Chicken,1.0
+553,Chicken,0.489
+554,Chicken,0.504
+555,Prisoner's Dilemma,0.237
+556,Prisoner's Dilemma,0.254
+557,Bach or Stravinski,0.0
+558,Coordination,0.0
+559,Chicken,0.508
+560,Stag hunt,0.0
+561,Prisoner's Dilemma,0.252
+562,Prisoner's Dilemma,0.245
+563,Stag hunt,0.0
+564,Chicken,1.0
+565,Stag hunt,0.0
+566,Stag hunt,0.0
+567,Stag hunt,0.0
+568,Bach or Stravinski,0.0
+569,Stag hunt,0.0
+570,Coordination,0.0
+571,Coordination,0.0
+572,Chicken,1.0
+573,Prisoner's Dilemma,0.228
+574,Prisoner's Dilemma,0.284
+575,Stag hunt,0.0
+576,Chicken,0.482
+577,Prisoner's Dilemma,0.234
+578,Bach or Stravinski,0.0
+579,Bach or Stravinski,0.0
+580,Prisoner's Dilemma,0.258
+581,Bach or Stravinski,0.0
+582,Chicken,0.501
+583,Stag hunt,0.0
+584,Stag hunt,0.0
+585,Bach or Stravinski,0.0
+586,Stag hunt,0.0
+587,Stag hunt,0.0
+588,Chicken,0.52
+589,Coordination,0.0
+590,Chicken,1.0
+591,Prisoner's Dilemma,0.241
+592,Stag hunt,0.0
+593,Coordination,0.0
+594,Chicken,0.481
+595,Prisoner's Dilemma,0.263
+596,No conflict,0.0
+597,Stag hunt,0.0
+598,Bach or Stravinski,0.0
+599,Stag hunt,0.0
+600,Stag hunt,0.0
+601,Coordination,0.0
+602,Prisoner's Dilemma,0.266
+603,Bach or Stravinski,0.0
+604,Prisoner's Dilemma,0.265
+605,Stag hunt,0.0
+606,Prisoner's Dilemma,0.233
+607,Prisoner's Dilemma,0.255
+608,Chicken,0.518
+609,Chicken,0.49
+610,Bach or Stravinski,0.0
+611,Stag hunt,0.0
+612,Coordination,0.0
+613,Coordination,0.0
+614,Prisoner's Dilemma,0.245
+615,Coordination,0.0
+616,Bach or Stravinski,0.0
+617,Coordination,0.0
+618,Prisoner's Dilemma,0.247
+619,Chicken,1.0
+620,Chicken,0.483
+621,Chicken,0.514
+622,Stag hunt,0.0
+623,Stag hunt,0.0
+624,Chicken,0.514
+625,Chicken,1.0
+626,Coordination,0.0
+627,Stag hunt,0.0
+628,Chicken,0.497
+629,Bach or Stravinski,0.0
+630,Chicken,1.0
+631,Stag hunt,0.0
+632,Prisoner's Dilemma,0.254
+633,Chicken,0.506
+634,Stag hunt,0.0
+635,Prisoner's Dilemma,0.245
+636,Chicken,0.498
+637,Bach or Stravinski,0.0
+638,Prisoner's Dilemma,0.251
+639,Prisoner's Dilemma,0.234
+640,Stag hunt,0.0
+641,Chicken,0.513
+642,Stag hunt,0.0
+643,Prisoner's Dilemma,0.274
+644,Stag hunt,0.0
+645,Chicken,0.5
+646,Stag hunt,0.0
+647,Stag hunt,0.0
+648,Coordination,0.0
+649,Chicken,0.483
+650,Chicken,0.479
+651,Stag hunt,0.0
+652,Coordination,0.0
+653,Stag hunt,0.0
+654,Stag hunt,0.0
+655,Prisoner's Dilemma,0.23
+656,Chicken,1.0
+657,Prisoner's Dilemma,0.242
+658,Stag hunt,0.0
+659,Prisoner's Dilemma,0.239
+660,Prisoner's Dilemma,0.257
+661,Chicken,0.508
+662,Chicken,0.509
+663,Stag hunt,0.0
+664,Prisoner's Dilemma,0.233
+665,No conflict,0.0
+666,Prisoner's Dilemma,0.236
+667,Coordination,0.0
+668,Stag hunt,0.0
+669,Chicken,0.501
+670,Stag hunt,0.0
+671,Chicken,0.485
+672,Chicken,1.0
+673,Stag hunt,0.0
+674,Bach or Stravinski,0.0
+675,Bach or Stravinski,0.0
+676,Prisoner's Dilemma,0.248
+677,Stag hunt,0.0
+678,Chicken,0.507
+679,Chicken,0.738
+680,Chicken,0.78
+681,Stag hunt,0.0
+682,Stag hunt,0.0
+683,Prisoner's Dilemma,0.255
+684,Chicken,0.521
+685,Prisoner's Dilemma,0.245
+686,Chicken,0.518
+687,Prisoner's Dilemma,0.258
+688,Prisoner's Dilemma,0.221
+689,Chicken,0.487
+690,Coordination,0.0
+691,Chicken,0.519
+692,Prisoner's Dilemma,0.244
+693,Prisoner's Dilemma,0.273
+694,Prisoner's Dilemma,0.238
+695,Prisoner's Dilemma,0.232
+696,Bach or Stravinski,0.0
+697,Bach or Stravinski,0.0
+698,Prisoner's Dilemma,0.269
+699,Prisoner's Dilemma,0.233
+700,Chicken,1.0
+701,Stag hunt,0.0
+702,Bach or Stravinski,0.0
+703,Prisoner's Dilemma,0.269
+704,Chicken,1.0
+705,Bach or Stravinski,0.0
+706,Prisoner's Dilemma,0.249
+707,Stag hunt,0.0
+708,Bach or Stravinski,0.0
+709,Prisoner's Dilemma,0.242
+710,Chicken,0.517
+711,Bach or Stravinski,0.0
+712,Chicken,0.49
+713,Coordination,0.0
+714,Prisoner's Dilemma,0.253
+715,Prisoner's Dilemma,0.27
+716,Stag hunt,0.0
+717,Chicken,0.497
+718,Prisoner's Dilemma,0.258
+719,Chicken,0.527
+720,Chicken,0.499
+721,Stag hunt,0.0
+722,Prisoner's Dilemma,0.207
+723,Stag hunt,0.0
+724,Prisoner's Dilemma,0.239
+725,Prisoner's Dilemma,0.246
+726,Prisoner's Dilemma,0.257
+727,Stag hunt,0.0
+728,Chicken,1.0
+729,Prisoner's Dilemma,0.244
+730,No conflict,0.0
+731,No conflict,0.0
+732,Coordination,0.0
+733,Coordination,0.0
+734,Stag hunt,0.0
+735,Stag hunt,0.0
+736,Chicken,0.5
+737,Prisoner's Dilemma,0.253
+738,Prisoner's Dilemma,0.277
+739,Coordination,0.0
+740,No conflict,0.0
+741,Prisoner's Dilemma,0.256
+742,Bach or Stravinski,0.0
+743,Chicken,0.501
+744,Coordination,0.0
+745,Prisoner's Dilemma,0.256
+746,Chicken,1.0
+747,Chicken,0.481
+748,Coordination,0.0
+749,Prisoner's Dilemma,0.251
+750,Stag hunt,0.0
+751,Chicken,1.0
+752,Chicken,1.0
+753,Bach or Stravinski,0.0
+754,Chicken,1.0
+755,Chicken,0.509
+756,Stag hunt,0.0
+757,Chicken,0.498
+758,Stag hunt,0.0
+759,Prisoner's Dilemma,0.284
+760,Chicken,1.0
+761,Chicken,0.519
+762,Prisoner's Dilemma,0.238
+763,Chicken,0.551
+764,Coordination,0.0
+765,Stag hunt,0.0
+766,Chicken,0.476
+767,Coordination,0.0
+768,Prisoner's Dilemma,0.239
+769,Coordination,0.0
+770,Stag hunt,0.0
+771,Stag hunt,0.0
+772,Bach or Stravinski,0.0
+773,Chicken,1.0
+774,Bach or Stravinski,0.0
+775,Bach or Stravinski,0.0
+776,Chicken,0.515
+777,Prisoner's Dilemma,0.253
+778,Stag hunt,0.0
+779,Chicken,0.483
+780,Stag hunt,0.0
+781,Prisoner's Dilemma,0.244
+782,Chicken,0.497
+783,Prisoner's Dilemma,0.241
+784,Prisoner's Dilemma,0.255
+785,Stag hunt,0.0
+786,Prisoner's Dilemma,0.234
+787,Stag hunt,0.0
+788,Stag hunt,0.0
+789,Bach or Stravinski,0.0
+790,Chicken,0.521
+791,Prisoner's Dilemma,0.229
+792,Prisoner's Dilemma,0.245
+793,Chicken,1.0
+794,Stag hunt,0.0
+795,Prisoner's Dilemma,0.25
+796,Prisoner's Dilemma,0.248
+797,Chicken,1.0
+798,Prisoner's Dilemma,0.246
+799,Prisoner's Dilemma,0.232
+800,No conflict,0.0
+801,Chicken,0.488
+802,Chicken,0.497
+803,No conflict,0.0
+804,Chicken,1.0
+805,Coordination,0.0
+806,Prisoner's Dilemma,0.245
+807,Coordination,0.0
+808,Prisoner's Dilemma,0.252
+809,Chicken,0.504
+810,Prisoner's Dilemma,0.243
+811,Prisoner's Dilemma,0.274
+812,Prisoner's Dilemma,0.251
+813,Stag hunt,0.0
+814,Prisoner's Dilemma,0.23
+815,Bach or Stravinski,0.0
+816,Coordination,0.0
+817,Coordination,0.0
+818,Stag hunt,0.0
+819,Chicken,0.516
+820,Stag hunt,0.0
+821,Prisoner's Dilemma,0.224
+822,Chicken,0.479
+823,Coordination,0.0
+824,Stag hunt,0.0
+825,Prisoner's Dilemma,0.25
+826,Prisoner's Dilemma,0.237
+827,Stag hunt,0.0
+828,Chicken,0.504
+829,Chicken,0.514
+830,Prisoner's Dilemma,0.245
+831,Stag hunt,0.0
+832,Prisoner's Dilemma,0.223
+833,Chicken,1.0
+834,Prisoner's Dilemma,0.268
+835,Prisoner's Dilemma,0.244
+836,Stag hunt,0.0
+837,Chicken,0.52
+838,Prisoner's Dilemma,0.243
+839,Chicken,0.482
+840,Prisoner's Dilemma,0.257
+841,Prisoner's Dilemma,0.274
+842,Stag hunt,0.0
+843,Stag hunt,0.0
+844,Prisoner's Dilemma,0.235
+845,Prisoner's Dilemma,0.257
+846,Prisoner's Dilemma,0.248
+847,Chicken,1.0
+848,Coordination,0.0
+849,Prisoner's Dilemma,0.259
+850,Stag hunt,0.0
+851,Stag hunt,0.0
+852,Chicken,0.479
+853,Chicken,0.489
+854,Prisoner's Dilemma,0.259
+855,Chicken,1.0
+856,Stag hunt,0.0
+857,Stag hunt,0.0
+858,Prisoner's Dilemma,0.259
+859,Stag hunt,0.0
+860,Prisoner's Dilemma,0.248
+861,Prisoner's Dilemma,0.266
+862,Stag hunt,0.0
+863,Prisoner's Dilemma,0.233
+864,Prisoner's Dilemma,0.235
+865,Chicken,0.495
+866,Bach or Stravinski,0.0
+867,Stag hunt,0.0
+868,Stag hunt,0.0
+869,Chicken,0.502
+870,Coordination,0.0
+871,Stag hunt,0.0
+872,Prisoner's Dilemma,0.247
+873,Chicken,0.507
+874,Stag hunt,0.0
+875,Prisoner's Dilemma,0.228
+876,Chicken,0.489
+877,Coordination,0.0
+878,Prisoner's Dilemma,0.242
+879,Stag hunt,0.0
+880,Prisoner's Dilemma,0.237
+881,Bach or Stravinski,0.0
+882,Coordination,0.0
+883,Stag hunt,0.0
+884,Prisoner's Dilemma,0.279
+885,Prisoner's Dilemma,0.232
+886,Bach or Stravinski,0.0
+887,Prisoner's Dilemma,0.252
+888,Chicken,0.511
+889,Stag hunt,0.0
+890,Prisoner's Dilemma,0.258
+891,Bach or Stravinski,0.0
+892,Stag hunt,0.0
+893,Prisoner's Dilemma,0.248
+894,Stag hunt,0.0
+895,Prisoner's Dilemma,0.242
+896,Stag hunt,0.0
+897,Chicken,1.0
+898,Chicken,0.501
+899,No conflict,0.0
+900,Coordination,0.0
+901,Chicken,0.503
+902,Prisoner's Dilemma,0.246
+903,Bach or Stravinski,0.0
+904,Prisoner's Dilemma,0.236
+905,Prisoner's Dilemma,0.263
+906,Coordination,0.0
+907,Chicken,0.508
+908,Prisoner's Dilemma,0.25
+909,Prisoner's Dilemma,0.248
+910,Chicken,0.484
+911,Stag hunt,0.0
+912,Prisoner's Dilemma,0.259
+913,Bach or Stravinski,0.0
+914,Chicken,0.511
+915,Prisoner's Dilemma,0.251
+916,Prisoner's Dilemma,0.27
+917,Coordination,0.0
+918,Prisoner's Dilemma,0.253
+919,Prisoner's Dilemma,0.224
+920,Prisoner's Dilemma,0.259
+921,Prisoner's Dilemma,0.257
+922,Stag hunt,0.0
+923,Stag hunt,0.0
+924,Chicken,0.518
+925,Stag hunt,0.0
+926,Stag hunt,0.0
+927,Prisoner's Dilemma,0.243
+928,Prisoner's Dilemma,0.239
+929,Coordination,0.0
+930,Coordination,0.0
+931,Stag hunt,0.0
+932,Prisoner's Dilemma,0.258
+933,Stag hunt,0.0
+934,Prisoner's Dilemma,0.263
+935,Chicken,0.491
+936,Prisoner's Dilemma,0.25
+937,Stag hunt,0.0
+938,Prisoner's Dilemma,0.271
+939,Stag hunt,0.0
+940,Chicken,0.512
+941,Bach or Stravinski,0.0
+942,Prisoner's Dilemma,0.262
+943,Prisoner's Dilemma,0.237
+944,Prisoner's Dilemma,0.243
+945,Prisoner's Dilemma,0.249
+946,Prisoner's Dilemma,0.25
+947,Prisoner's Dilemma,0.247
+948,Stag hunt,0.0
+949,Stag hunt,0.0
+950,Prisoner's Dilemma,0.239
+951,Prisoner's Dilemma,0.264
+952,Chicken,0.497
+953,Chicken,0.525
+954,Prisoner's Dilemma,0.267
+955,Prisoner's Dilemma,0.234
+956,Coordination,0.0
+957,Coordination,0.0
+958,Stag hunt,0.0
+959,Chicken,0.512
+960,Prisoner's Dilemma,0.268
+961,Prisoner's Dilemma,0.235
+962,No conflict,0.0
+963,Prisoner's Dilemma,0.263
+964,Stag hunt,0.0
+965,Chicken,1.0
+966,Stag hunt,0.0
+967,Stag hunt,0.0
+968,Prisoner's Dilemma,0.259
+969,Stag hunt,0.0
+970,Chicken,1.0
+971,Chicken,0.514
+972,Stag hunt,0.0
+973,Prisoner's Dilemma,0.273
+974,Prisoner's Dilemma,0.225
+975,Prisoner's Dilemma,0.243
+976,Coordination,0.0
+977,Coordination,0.0
+978,Bach or Stravinski,0.0
+979,Chicken,0.487
+980,No conflict,0.0
+981,Chicken,0.522
+982,Chicken,1.0
+983,Prisoner's Dilemma,0.264
+984,Prisoner's Dilemma,0.24
+985,Coordination,0.0
+986,Prisoner's Dilemma,0.244
+987,No conflict,0.0
+988,Stag hunt,0.0
+989,Prisoner's Dilemma,0.248
+990,Chicken,0.506
+991,Prisoner's Dilemma,0.261
+992,Coordination,0.0
+993,Prisoner's Dilemma,0.255
+994,Prisoner's Dilemma,0.245
+995,Prisoner's Dilemma,0.257
+996,Chicken,1.0
+997,Stag hunt,0.0
+998,Coordination,0.0
+999,Prisoner's Dilemma,0.252
+1000,Stag hunt,0.0
+1001,Prisoner's Dilemma,0.264
+1002,Stag hunt,0.0
+1003,Chicken,0.496
+1004,Stag hunt,0.0
+1005,Chicken,1.0
+1006,Stag hunt,0.0
+1007,Stag hunt,0.0
+1008,Coordination,0.0
+1009,Prisoner's Dilemma,0.27
+1010,Prisoner's Dilemma,0.255
+1011,Stag hunt,0.0
+1012,Prisoner's Dilemma,0.258
+1013,Chicken,0.506
+1014,Stag hunt,0.0
+1015,Chicken,1.0
+1016,Bach or Stravinski,0.0
+1017,Prisoner's Dilemma,0.256
+1018,Chicken,0.492
+1019,Bach or Stravinski,0.0
+1020,Prisoner's Dilemma,0.245
+1021,Prisoner's Dilemma,0.251
+1022,Prisoner's Dilemma,0.262
+1023,Coordination,0.0
+1024,Coordination,0.0
+1025,Bach or Stravinski,0.0
+1026,Bach or Stravinski,0.0
+1027,Stag hunt,0.0
+1028,Prisoner's Dilemma,0.253
+1029,Prisoner's Dilemma,0.24
+1030,Chicken,1.0
+1031,Prisoner's Dilemma,0.25
+1032,Chicken,0.477
+1033,Prisoner's Dilemma,0.251
+1034,Stag hunt,0.0
+1035,Chicken,0.48
+1036,Chicken,0.51
+1037,Chicken,1.0
+1038,Stag hunt,0.0
+1039,Prisoner's Dilemma,0.223
+1040,Stag hunt,0.0
+1041,Bach or Stravinski,0.0
+1042,Bach or Stravinski,0.0
+1043,Chicken,0.499
+1044,Chicken,0.502
+1045,Prisoner's Dilemma,0.253
+1046,Chicken,0.502
+1047,Chicken,0.51
+1048,Bach or Stravinski,0.0
+1049,No conflict,0.0
+1050,Chicken,1.0
+1051,Coordination,0.0
+1052,Stag hunt,0.0
+1053,Bach or Stravinski,0.0
+1054,Chicken,1.0
+1055,Prisoner's Dilemma,0.253
+1056,Chicken,0.504
+1057,Stag hunt,0.0
+1058,Coordination,0.0
+1059,Prisoner's Dilemma,0.254
+1060,Chicken,1.0
+1061,Chicken,0.511
+1062,Chicken,1.0
+1063,Chicken,1.0
+1064,Coordination,0.0
+1065,Coordination,0.0
+1066,Stag hunt,0.0
+1067,Stag hunt,0.0
+1068,Coordination,0.0
+1069,Stag hunt,0.0
+1070,No conflict,0.0
+1071,Coordination,0.0
+1072,Stag hunt,0.0
+1073,Stag hunt,0.0
+1074,Stag hunt,0.0
+1075,Bach or Stravinski,0.0
+1076,Bach or Stravinski,0.0
+1077,Bach or Stravinski,0.0
+1078,Chicken,1.0
+1079,Prisoner's Dilemma,0.266
+1080,Bach or Stravinski,0.0
+1081,Chicken,0.504
+1082,Chicken,0.498
+1083,Coordination,0.0
+1084,Prisoner's Dilemma,0.241
+1085,Prisoner's Dilemma,0.254
+1086,Chicken,0.531
+1087,Chicken,0.516
+1088,Chicken,1.0
+1089,Stag hunt,0.0
+1090,Coordination,0.0
+1091,Stag hunt,0.0
+1092,Bach or Stravinski,0.0
+1093,Prisoner's Dilemma,0.251
+1094,Prisoner's Dilemma,0.248
+1095,Chicken,1.0
+1096,Stag hunt,0.0
+1097,Chicken,1.0
+1098,Chicken,1.0
+1099,Prisoner's Dilemma,0.26
+1100,Coordination,0.0
+1101,Prisoner's Dilemma,0.261
+1102,Stag hunt,0.0
+1103,Bach or Stravinski,0.0
+1104,Prisoner's Dilemma,0.237
+1105,Stag hunt,0.0
+1106,Chicken,0.473
+1107,Prisoner's Dilemma,0.252
+1108,Prisoner's Dilemma,0.25
+1109,Bach or Stravinski,0.0
+1110,Chicken,0.509
+1111,Coordination,0.0
+1112,Bach or Stravinski,0.0
+1113,No conflict,0.0
+1114,Stag hunt,0.0
+1115,Prisoner's Dilemma,0.254
+1116,Bach or Stravinski,0.0
+1117,Prisoner's Dilemma,0.243
+1118,Stag hunt,0.0
+1119,Bach or Stravinski,0.0
+1120,Stag hunt,0.0
+1121,Chicken,1.0
+1122,Chicken,1.0
+1123,Coordination,0.0
+1124,Prisoner's Dilemma,0.259
+1125,Bach or Stravinski,0.0
+1126,Stag hunt,0.0
+1127,Bach or Stravinski,0.0
+1128,Chicken,0.462
+1129,Chicken,1.0
+1130,Chicken,0.482
+1131,Chicken,0.528
+1132,Chicken,1.0
+1133,Prisoner's Dilemma,0.243
+1134,Chicken,1.0
+1135,Bach or Stravinski,0.0
+1136,Coordination,0.0
+1137,Chicken,0.499
+1138,Bach or Stravinski,0.0
+1139,Prisoner's Dilemma,0.253
+1140,Coordination,0.0
+1141,Bach or Stravinski,0.0
+1142,Bach or Stravinski,0.0
+1143,Stag hunt,0.0
+1144,Stag hunt,0.0
+1145,Stag hunt,0.0
+1146,Chicken,0.516
+1147,Chicken,0.458
+1148,Coordination,0.0
+1149,Chicken,1.0
+1150,Prisoner's Dilemma,0.251
+1151,Coordination,0.0
+1152,Chicken,0.488
+1153,Stag hunt,0.0
+1154,Stag hunt,0.0
+1155,Chicken,1.0
+1156,Chicken,0.53
+1157,Prisoner's Dilemma,0.265
+1158,Prisoner's Dilemma,0.245
+1159,Prisoner's Dilemma,0.241
+1160,Bach or Stravinski,0.0
+1161,Prisoner's Dilemma,0.238
+1162,Prisoner's Dilemma,0.271
+1163,Coordination,0.0
+1164,Prisoner's Dilemma,0.239
+1165,Prisoner's Dilemma,0.254
+1166,Chicken,1.0
+1167,Coordination,0.0
+1168,Prisoner's Dilemma,0.262
+1169,Prisoner's Dilemma,0.263
+1170,Stag hunt,0.0
+1171,Stag hunt,0.0
+1172,Prisoner's Dilemma,0.249
+1173,Coordination,0.0
+1174,Chicken,1.0
+1175,Coordination,0.0
+1176,Coordination,0.0
+1177,Chicken,0.508
+1178,Stag hunt,0.0
+1179,Chicken,0.5
+1180,Prisoner's Dilemma,0.269
+1181,Chicken,0.512
+1182,Prisoner's Dilemma,0.238
+1183,Stag hunt,0.0
+1184,Chicken,0.499
+1185,Chicken,0.508
+1186,Chicken,0.499
+1187,Stag hunt,0.0
+1188,Prisoner's Dilemma,0.239
+1189,Stag hunt,0.0
+1190,Stag hunt,0.0
+1191,Stag hunt,0.0
+1192,Chicken,1.0
+1193,Coordination,0.0
+1194,Prisoner's Dilemma,0.267
+1195,Prisoner's Dilemma,0.248
+1196,Stag hunt,0.0
+1197,Chicken,0.517
+1198,Prisoner's Dilemma,0.236
+1199,Chicken,0.47
+1200,Coordination,0.0
+1201,Chicken,1.0
+1202,Bach or Stravinski,0.0
+1203,No conflict,0.0
+1204,Stag hunt,0.0
+1205,Prisoner's Dilemma,0.255
+1206,Prisoner's Dilemma,0.251
+1207,Prisoner's Dilemma,0.259
+1208,Bach or Stravinski,0.0
+1209,Stag hunt,0.0
+1210,Stag hunt,0.0
+1211,Stag hunt,0.0
+1212,Chicken,0.475
+1213,Stag hunt,0.0
+1214,Chicken,0.5
+1215,Chicken,0.514
+1216,Stag hunt,0.0
+1217,Prisoner's Dilemma,0.242
+1218,Chicken,1.0
+1219,Prisoner's Dilemma,0.235
+1220,Prisoner's Dilemma,0.259
+1221,Chicken,0.504
+1222,Chicken,0.498
+1223,Prisoner's Dilemma,0.248
+1224,Coordination,0.0
+1225,Chicken,1.0
+1226,Bach or Stravinski,0.0
+1227,Bach or Stravinski,0.0
+1228,Coordination,0.0
+1229,Coordination,0.0
+1230,Coordination,0.0
+1231,Prisoner's Dilemma,0.237
+1232,Prisoner's Dilemma,0.255
+1233,Bach or Stravinski,0.0
+1234,Stag hunt,0.0
+1235,Prisoner's Dilemma,0.25
+1236,Prisoner's Dilemma,0.226
+1237,Prisoner's Dilemma,0.264
+1238,Prisoner's Dilemma,0.25
+1239,Chicken,0.504
+1240,Bach or Stravinski,0.0
+1241,Chicken,0.479
+1242,Chicken,0.489
+1243,Coordination,0.0
+1244,Prisoner's Dilemma,0.245
+1245,Chicken,0.5
+1246,Chicken,0.527
+1247,Chicken,0.482
+1248,Stag hunt,0.0
+1249,Prisoner's Dilemma,0.255
+1250,Prisoner's Dilemma,0.241
+1251,Chicken,1.0
+1252,Stag hunt,0.0
+1253,Chicken,0.489
+1254,Bach or Stravinski,0.0
+1255,Chicken,0.485
+1256,Bach or Stravinski,0.0
+1257,Prisoner's Dilemma,0.259
+1258,Stag hunt,0.0
+1259,Chicken,0.517
+1260,Coordination,0.0
+1261,Coordination,0.0
+1262,Stag hunt,0.0
+1263,Chicken,0.523
+1264,Bach or Stravinski,0.0
+1265,Chicken,1.0
+1266,Prisoner's Dilemma,0.236
+1267,Stag hunt,0.0
+1268,Chicken,1.0
+1269,Stag hunt,0.0
+1270,Coordination,0.0
+1271,Chicken,1.0
+1272,Prisoner's Dilemma,0.26
+1273,Chicken,0.505
+1274,Prisoner's Dilemma,0.249
+1275,Prisoner's Dilemma,0.246
+1276,Chicken,1.0
+1277,Chicken,0.491
+1278,Chicken,0.495
+1279,Chicken,1.0
+1280,Prisoner's Dilemma,0.241
+1281,Stag hunt,0.0
+1282,Chicken,0.508
+1283,Chicken,0.528
+1284,Chicken,0.507
+1285,Chicken,0.492
+1286,Bach or Stravinski,0.0
+1287,Prisoner's Dilemma,0.245
+1288,Chicken,1.0
+1289,Stag hunt,0.0
+1290,Prisoner's Dilemma,0.234
+1291,Prisoner's Dilemma,0.248
+1292,Chicken,0.501
+1293,Chicken,0.486
+1294,Chicken,0.506
+1295,Prisoner's Dilemma,0.233
+1296,Stag hunt,0.0
+1297,Prisoner's Dilemma,0.248
+1298,Prisoner's Dilemma,0.265
+1299,Bach or Stravinski,0.0
+1300,Bach or Stravinski,0.0
+1301,Prisoner's Dilemma,0.266
+1302,Chicken,0.518
+1303,Coordination,0.0
+1304,Chicken,0.492
+1305,Stag hunt,0.0
+1306,Bach or Stravinski,0.0
+1307,Prisoner's Dilemma,0.266
+1308,Chicken,0.495
+1309,Prisoner's Dilemma,0.271
+1310,Prisoner's Dilemma,0.269
+1311,Prisoner's Dilemma,0.252
+1312,Chicken,0.511
+1313,Prisoner's Dilemma,0.257
+1314,Coordination,0.0
+1315,Chicken,0.515
+1316,Chicken,0.512
+1317,Prisoner's Dilemma,0.244
+1318,Chicken,1.0
+1319,Coordination,0.0
+1320,Coordination,0.0
+1321,Chicken,0.477
+1322,Bach or Stravinski,0.0
+1323,Prisoner's Dilemma,0.249
+1324,Coordination,0.0
+1325,Stag hunt,0.0
+1326,Chicken,0.501
+1327,Stag hunt,0.0
+1328,Prisoner's Dilemma,0.221
+1329,Prisoner's Dilemma,0.245
+1330,Stag hunt,0.0
+1331,Chicken,0.495
+1332,Chicken,0.501
+1333,Coordination,0.0
+1334,Chicken,0.518
+1335,Coordination,0.0
+1336,Coordination,0.0
+1337,Prisoner's Dilemma,0.251
+1338,Prisoner's Dilemma,0.257
+1339,Bach or Stravinski,0.0
+1340,Chicken,0.48
+1341,Chicken,0.543
+1342,Prisoner's Dilemma,0.272
+1343,Prisoner's Dilemma,0.236
+1344,Chicken,0.474
+1345,Chicken,0.489
+1346,Prisoner's Dilemma,0.242
+1347,Prisoner's Dilemma,0.24
+1348,Stag hunt,0.0
+1349,Prisoner's Dilemma,0.247
+1350,Coordination,0.0
+1351,Stag hunt,0.0
+1352,Prisoner's Dilemma,0.244
+1353,Prisoner's Dilemma,0.241
+1354,Bach or Stravinski,0.0
+1355,Bach or Stravinski,0.0
+1356,Prisoner's Dilemma,0.241
+1357,Stag hunt,0.0
+1358,Stag hunt,0.0
+1359,Chicken,0.489
+1360,Coordination,0.0
+1361,Chicken,1.0
+1362,Stag hunt,0.0
+1363,Chicken,0.499
+1364,Prisoner's Dilemma,0.26
+1365,Stag hunt,0.0
+1366,Chicken,1.0
+1367,Prisoner's Dilemma,0.249
+1368,Prisoner's Dilemma,0.277
+1369,Coordination,0.0
+1370,Prisoner's Dilemma,0.27
+1371,Stag hunt,0.0
+1372,Prisoner's Dilemma,0.255
+1373,Prisoner's Dilemma,0.259
+1374,Chicken,0.527
+1375,Stag hunt,0.0
+1376,Prisoner's Dilemma,0.264
+1377,Coordination,0.0
+1378,Chicken,0.476
+1379,Chicken,0.508
+1380,Bach or Stravinski,0.0
+1381,Bach or Stravinski,0.0
+1382,Stag hunt,0.0
+1383,Stag hunt,0.0
+1384,Chicken,1.0
+1385,Stag hunt,0.0
+1386,Prisoner's Dilemma,0.261
+1387,Chicken,0.5
+1388,Bach or Stravinski,0.0
+1389,Chicken,1.0
+1390,Chicken,1.0
+1391,Coordination,0.0
+1392,Coordination,0.0
+1393,Prisoner's Dilemma,0.264
+1394,Prisoner's Dilemma,0.225
+1395,Prisoner's Dilemma,0.231
+1396,Stag hunt,0.0
+1397,Stag hunt,0.0
+1398,Stag hunt,0.0
+1399,Prisoner's Dilemma,0.248
+1400,Bach or Stravinski,0.0
+1401,Prisoner's Dilemma,0.241
+1402,No conflict,0.0
+1403,Chicken,0.485
+1404,Coordination,0.0
+1405,Prisoner's Dilemma,0.258
+1406,Stag hunt,0.0
+1407,Stag hunt,0.0
+1408,Coordination,0.0
+1409,Prisoner's Dilemma,0.255
+1410,Coordination,0.0
+1411,Prisoner's Dilemma,0.374
+1412,Stag hunt,0.0
+1413,Stag hunt,0.0
+1414,Chicken,1.0
+1415,Coordination,0.0
+1416,Prisoner's Dilemma,0.223
+1417,Bach or Stravinski,0.0
+1418,Coordination,0.0
+1419,Prisoner's Dilemma,0.252
+1420,Prisoner's Dilemma,0.248
+1421,Chicken,0.506
+1422,Prisoner's Dilemma,0.278
+1423,Prisoner's Dilemma,0.231
+1424,Prisoner's Dilemma,0.243
+1425,Chicken,1.0
+1426,Stag hunt,0.0
+1427,Bach or Stravinski,0.0
+1428,Stag hunt,0.0
+1429,Coordination,0.0
+1430,Chicken,0.503
+1431,Stag hunt,0.0
+1432,Prisoner's Dilemma,0.236
+1433,Chicken,1.0
+1434,Stag hunt,0.0
+1435,Stag hunt,0.0
+1436,Coordination,0.0
+1437,Stag hunt,0.0
+1438,Chicken,0.507
+1439,Chicken,0.51
+1440,Bach or Stravinski,0.0
+1441,Prisoner's Dilemma,0.253
+1442,Stag hunt,0.0
+1443,Stag hunt,0.0
+1444,Chicken,0.484
+1445,Bach or Stravinski,0.0
+1446,Coordination,0.0
+1447,Chicken,0.262
+1448,Stag hunt,0.0
+1449,Stag hunt,0.0
+1450,Stag hunt,0.0
+1451,Stag hunt,0.0
+1452,Stag hunt,0.0
+1453,Stag hunt,0.0
+1454,Stag hunt,0.0
+1455,Chicken,0.503
+1456,Stag hunt,0.0
+1457,Coordination,0.0
+1458,Bach or Stravinski,0.0
+1459,Coordination,0.0
+1460,Coordination,0.0
+1461,Prisoner's Dilemma,0.264
+1462,Chicken,0.503
+1463,Chicken,1.0
+1464,Stag hunt,0.0
+1465,Coordination,0.0
+1466,Prisoner's Dilemma,0.272
+1467,Prisoner's Dilemma,0.258
+1468,Chicken,1.0
+1469,Prisoner's Dilemma,0.248
+1470,Chicken,0.494
+1471,Stag hunt,0.0
+1472,Chicken,1.0
+1473,Stag hunt,0.0
+1474,Coordination,0.0
+1475,Chicken,0.544
+1476,Chicken,1.0
+1477,Coordination,0.0
+1478,Prisoner's Dilemma,0.254
+1479,Coordination,0.0
+1480,Prisoner's Dilemma,0.245
+1481,Prisoner's Dilemma,0.259
+1482,Prisoner's Dilemma,0.248
+1483,Stag hunt,0.0
+1484,Bach or Stravinski,0.0
+1485,Stag hunt,0.0
+1486,Bach or Stravinski,0.0
+1487,Stag hunt,0.0
+1488,Prisoner's Dilemma,0.229
+1489,Bach or Stravinski,0.0
+1490,Prisoner's Dilemma,0.251
+1491,Chicken,1.0
+1492,Chicken,1.0
+1493,Chicken,0.513
+1494,Prisoner's Dilemma,0.24
+1495,Chicken,0.491
+1496,Bach or Stravinski,0.0
+1497,Prisoner's Dilemma,0.236
+1498,Chicken,1.0
+1499,Chicken,0.525
+1500,Prisoner's Dilemma,0.236
+1501,Prisoner's Dilemma,0.253
+1502,Stag hunt,0.0
+1503,Chicken,0.51
+1504,Stag hunt,0.0
+1505,Chicken,0.482
+1506,Stag hunt,0.0
+1507,Prisoner's Dilemma,0.23
+1508,Chicken,1.0
+1509,Stag hunt,0.0
+1510,Stag hunt,0.0
+1511,Stag hunt,0.0
+1512,Prisoner's Dilemma,0.259
+1513,Stag hunt,0.0
+1514,Bach or Stravinski,0.0
+1515,Coordination,0.0
+1516,Prisoner's Dilemma,0.248
+1517,Coordination,0.0
+1518,Chicken,0.487
+1519,Prisoner's Dilemma,0.251
+1520,Chicken,0.51
+1521,Prisoner's Dilemma,0.522
+1522,Prisoner's Dilemma,0.253
+1523,Bach or Stravinski,0.0
+1524,Chicken,0.465
+1525,Bach or Stravinski,0.0
+1526,Stag hunt,0.0
+1527,Chicken,1.0
+1528,Prisoner's Dilemma,0.249
+1529,Stag hunt,0.0
+1530,Prisoner's Dilemma,0.252
+1531,Bach or Stravinski,0.0
+1532,Prisoner's Dilemma,0.242
+1533,Stag hunt,0.0
+1534,Chicken,0.519

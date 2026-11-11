@@ -1,0 +1,35 @@
+\begin{table*}[!t]
+\centering
+\renewcommand{\arraystretch}{1.5}
+\small
+\begin{adjustbox}{max width=\textwidth}
+\newcolumntype{G}{>{\centering\arraybackslash}p{2cm}}
+\begin{tabular}{lGGGGGG|G}
+\toprule
+\textbf{Model} & 
+\textbf{Prisoner's Dilemma} & \textbf{Chicken} & \textbf{Battle of the Sexes} & \textbf{Stag Hunt} & \textbf{Coordination} & \textbf{No Conflict} & \textbf{Weighted Average} \\
+\midrule
+Claude 4.5 Opus & \cellcolor[HTML]{05713C}\textbf{0.98} & \cellcolor[HTML]{148E4B}\textbf{0.92} & \cellcolor[HTML]{B5DF74}\textbf{0.67} & \cellcolor[HTML]{A5D86A}0.70 & \cellcolor[HTML]{17934E}0.91 & \cellcolor[HTML]{006837}\textbf{1.00} & \cellcolor[HTML]{30A356}\textbf{0.87} \\
+Claude 4.5 Sonnet & \cellcolor[HTML]{84CA66}0.75 & \cellcolor[HTML]{199750}0.90 & \cellcolor[HTML]{B5DF74}\textbf{0.67} & \cellcolor[HTML]{98D368}0.72 & \cellcolor[HTML]{148E4B}\textbf{0.92} & \cellcolor[HTML]{0A7B41}0.96 & \cellcolor[HTML]{6BBF64}0.79 \\
+GPT-5.2 & \cellcolor[HTML]{DCF08F}0.59 & \cellcolor[HTML]{17934E}0.91 & \cellcolor[HTML]{FED683}0.38 & \cellcolor[HTML]{FDB768}0.32 & \cellcolor[HTML]{5DB961}0.81 & \cellcolor[HTML]{006837}\textbf{1.00} & \cellcolor[HTML]{C9E881}0.63 \\
+GPT-5.1 & \cellcolor[HTML]{FEEC9F}0.44 & \cellcolor[HTML]{219C52}0.89 & \cellcolor[HTML]{EFF8AA}0.54 & \cellcolor[HTML]{E8F59F}0.56 & \cellcolor[HTML]{45AD5B}0.84 & \cellcolor[HTML]{006837}\textbf{1.00} & \cellcolor[HTML]{C5E67E}0.64 \\
+GPT-5 Mini & \cellcolor[HTML]{FA9B58}0.27 & \cellcolor[HTML]{148E4B}\textbf{0.92} & \cellcolor[HTML]{C5E67E}0.64 & \cellcolor[HTML]{ABDB6D}0.69 & \cellcolor[HTML]{219C52}0.89 & \cellcolor[HTML]{006837}\textbf{1.00} & \cellcolor[HTML]{C5E67E}0.64 \\
+GPT-5 Nano & \cellcolor[HTML]{FFFCBA}0.49 & \cellcolor[HTML]{BBE278}0.66 & \cellcolor[HTML]{F67F4B}0.23 & \cellcolor[HTML]{C5E67E}0.64 & \cellcolor[HTML]{3FAA59}0.85 & \cellcolor[HTML]{006837}\textbf{1.00} & \cellcolor[HTML]{DCF08F}0.59 \\
+GPT-4o & \cellcolor[HTML]{6BBF64}0.79 & \cellcolor[HTML]{279F53}0.88 & \cellcolor[HTML]{FEEC9F}0.44 & \cellcolor[HTML]{98D368}0.72 & \cellcolor[HTML]{BFE47A}0.65 & \cellcolor[HTML]{006837}\textbf{1.00} & \cellcolor[HTML]{84CA66}0.75 \\
+Grok 4.1 Fast & \cellcolor[HTML]{B30D26}0.03 & \cellcolor[HTML]{EFF8AA}0.54 & \cellcolor[HTML]{FEFFBE}0.50 & \cellcolor[HTML]{F46D43}0.20 & \cellcolor[HTML]{279F53}0.88 & \cellcolor[HTML]{006837}\textbf{1.00} & \cellcolor[HTML]{FDC776}0.35 \\
+Gemini 3 Pro & \cellcolor[HTML]{D22B27}0.09 & \cellcolor[HTML]{6BBF64}0.79 & \cellcolor[HTML]{E5F49B}0.57 & \cellcolor[HTML]{FDB365}0.31 & \cellcolor[HTML]{148E4B}\textbf{0.92} & \cellcolor[HTML]{006837}\textbf{1.00} & \cellcolor[HTML]{FFF6B0}0.47 \\
+Gemini 3 Flash & \cellcolor[HTML]{EE613E}0.18 & \cellcolor[HTML]{148E4B}\textbf{0.92} & \cellcolor[HTML]{E5F49B}0.57 & \cellcolor[HTML]{36A657}\textbf{0.86} & \cellcolor[HTML]{219C52}0.89 & \cellcolor[HTML]{006837}\textbf{1.00} & \cellcolor[HTML]{C5E67E}0.64 \\
+Llama 3.3 70B & \cellcolor[HTML]{45AD5B}0.84 & \cellcolor[HTML]{30A356}0.87 & \cellcolor[HTML]{FEEC9F}0.44 & \cellcolor[HTML]{45AD5B}0.84 & \cellcolor[HTML]{73C264}0.78 & \cellcolor[HTML]{006837}\textbf{1.00} & \cellcolor[HTML]{5DB961}0.81 \\
+Llama 3.2 3B & \cellcolor[HTML]{78C565}0.77 & \cellcolor[HTML]{A0D669}0.71 & \cellcolor[HTML]{FECC7B}0.36 & \cellcolor[HTML]{6BBF64}0.79 & \cellcolor[HTML]{93D168}0.73 & \cellcolor[HTML]{006837}\textbf{1.00} & \cellcolor[HTML]{98D368}0.72 \\
+Qwen3 30B & \cellcolor[HTML]{E24731}0.14 & \cellcolor[HTML]{FEEC9F}0.44 & \cellcolor[HTML]{FA9B58}0.27 & \cellcolor[HTML]{FED683}0.38 & \cellcolor[HTML]{FEFFBE}0.50 & \cellcolor[HTML]{0A7B41}0.96 & \cellcolor[HTML]{FDBD6D}0.33 \\
+Qwen3 8B & \cellcolor[HTML]{FA9B58}0.27 & \cellcolor[HTML]{FECC7B}0.36 & \cellcolor[HTML]{FEDA86}0.39 & \cellcolor[HTML]{3FAA59}0.85 & \cellcolor[HTML]{B5DF74}0.67 & \cellcolor[HTML]{006837}\textbf{1.00} & \cellcolor[HTML]{FFF8B4}0.48 \\
+DeepSeek V3.2 & \cellcolor[HTML]{D22B27}0.09 & \cellcolor[HTML]{30A356}0.87 & \cellcolor[HTML]{FFF8B4}0.48 & \cellcolor[HTML]{F99355}0.26 & \cellcolor[HTML]{3FAA59}0.85 & \cellcolor[HTML]{006837}\textbf{1.00} & \cellcolor[HTML]{FFF2AA}0.46 \\
+\midrule
+\textbf{Average} & \cellcolor[HTML]{FFF2AA}0.46 & \cellcolor[HTML]{73C264}0.78 & \cellcolor[HTML]{FFF2AA}0.46 & \cellcolor[HTML]{D9EF8B}0.60 & \cellcolor[HTML]{66BD63}0.80 & \cellcolor[HTML]{006837}1.00 & \cellcolor[HTML]{CFEB85}0.62 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\caption{Utilitarian accuracy (fraction of actions maximizing total welfare, i.e. sum of utilities) across models and game types. \textbf{Bold} values indicate the best result per column. Cell colors range from \textcolor[HTML]{D73027}{red} (0.0) to \textcolor[HTML]{1A9850}{green} (1.0).}
+\label{tab:accuracy_heatmap_transposed}
+\vspace{-0.5cm}
+\end{table*}

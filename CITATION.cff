@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use GT-HarmBench, please cite the paper below."
+title: "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory"
+type: dataset
+license: CC-BY-4.0
+url: "https://github.com/Flecart/gt-harmbench"
+repository-code: "https://github.com/Flecart/gt-harmbench"
+# Mirror; the canonical copy of the data ships in this repository under data/.
+identifiers:
+  - type: url
+    value: "https://huggingface.co/datasets/causalNLP/gt-harmbench"
+    description: "Hugging Face Hub mirror of the release dataset"
+keywords:
+  - game theory
+  - AI safety
+  - benchmark
+  - strategic reasoning
+  - Nash equilibrium
+  - social welfare
+authors:
+  - given-names: Pepijn
+    family-names: Cobben
+  - given-names: "Xuanqiang Angelo"
+    family-names: Huang
+  - given-names: "Thao Amelia"
+    family-names: Pham
+  - given-names: Isabel
+    family-names: Dahlgren
+  - given-names: Bernhard
+    family-names: Schölkopf
+  - given-names: "Terry Jingchen"
+    family-names: Zhang
+  - given-names: Zhijing
+    family-names: Jin
+
+# The paper is what people should actually cite; the block above describes this
+# repository. When the conference version appears, change `type` to
+# `conference-paper` and add `collection-title` / `conference` / `year`.
+preferred-citation:
+  type: article
+  title: "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory"
+  year: 2026
+  journal: "arXiv preprint arXiv:2602.12316"
+  doi: 10.48550/arXiv.2602.12316
+  url: "https://arxiv.org/abs/2602.12316"
+  authors:
+    - given-names: Pepijn
+      family-names: Cobben
+    - given-names: "Xuanqiang Angelo"
+      family-names: Huang
+    - given-names: "Thao Amelia"
+      family-names: Pham
+    - given-names: Isabel
+      family-names: Dahlgren
+    - given-names: Bernhard
+      family-names: Schölkopf
+    - given-names: "Terry Jingchen"
+      family-names: Zhang
+    - given-names: Zhijing
+      family-names: Jin

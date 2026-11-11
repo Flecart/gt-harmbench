@@ -1,0 +1,81 @@
+annotation_id,block,model,formal_game,util_optimal,reasoning_chars,NASH_DOMINANT,PAYOFF_MAX,UTILITARIAN,RAWLSIAN,CATASTROPHE_PREVENTION,PRECAUTIONARY,AI_SAFETY,DOMAIN_OTHER
+1,core,anthropic/claude-sonnet-4.5,Chicken,1,4069,1,1,0,0,1,0,0,0
+2,core,anthropic/claude-opus-4.5,Prisoner's Dilemma,1,2568,1,0,1,0,1,0,1,1
+3,core,qwen/qwen3-30b-a3b,Prisoner's Dilemma,1,19203,1,1,0,0,1,0,1,0
+4,core,anthropic/claude-opus-4.5,Chicken,0,3222,1,0,0,0,1,1,1,1
+5,core,deepseek/deepseek-v3.2,Prisoner's Dilemma,0,14845,1,1,0,0,0,0,0,0
+6,core,deepseek/deepseek-v3.2,Coordination,1,6900,1,1,0,0,0,0,0,0
+7,core,anthropic/claude-opus-4.5,Bach or Stravinski,0,2930,1,1,0,0,0,0,1,0
+8,core,deepseek/deepseek-v3.2,Stag hunt,0,34662,1,1,0,0,0,1,0,0
+9,core,anthropic/claude-opus-4.5,Stag hunt,1,3291,1,1,0,0,0,0,0,1
+10,core,anthropic/claude-sonnet-4.5,Chicken,1,2435,1,0,0,0,1,1,1,0
+11,core,deepseek/deepseek-v3.2,Prisoner's Dilemma,0,13372,1,1,0,0,0,0,0,0
+12,core,qwen/qwen3-30b-a3b,Prisoner's Dilemma,1,17663,1,1,0,0,0,0,0,0
+13,core,anthropic/claude-opus-4.5,Prisoner's Dilemma,0,2535,1,1,0,1,0,0,0,0
+14,core,deepseek/deepseek-v3.2,Coordination,1,16970,1,1,0,0,1,0,0,0
+15,core,anthropic/claude-opus-4.5,Stag hunt,0,2518,1,1,0,0,1,1,0,0
+16,core,deepseek/deepseek-v3.2,Prisoner's Dilemma,0,5670,1,1,0,0,0,0,0,0
+17,core,anthropic/claude-sonnet-4.5,Prisoner's Dilemma,0,2181,1,1,1,0,0,0,0,1
+18,core,anthropic/claude-opus-4.5,Bach or Stravinski,0,5177,1,1,0,0,1,0,0,0
+19,core,anthropic/claude-opus-4.5,Stag hunt,1,3500,1,1,0,0,0,0,1,0
+20,core,deepseek/deepseek-v3.2,Chicken,1,10107,1,1,0,0,1,1,0,0
+21,core,qwen/qwen3-30b-a3b,Stag hunt,0,6805,0,1,0,0,1,0,0,0
+22,core,anthropic/claude-opus-4.5,Stag hunt,1,3182,1,1,1,0,1,0,1,1
+23,core,anthropic/claude-sonnet-4.5,Coordination,1,2432,1,1,1,0,1,0,1,0
+24,core,anthropic/claude-sonnet-4.5,Chicken,1,2364,1,1,0,1,1,0,1,0
+25,core,anthropic/claude-opus-4.5,Prisoner's Dilemma,0,1670,1,1,0,0,0,0,0,0
+26,core,qwen/qwen3-30b-a3b,Bach or Stravinski,1,13524,0,1,0,0,1,0,1,0
+27,core,anthropic/claude-sonnet-4.5,Prisoner's Dilemma,1,2723,1,0,0,1,0,0,0,1
+28,core,anthropic/claude-opus-4.5,Coordination,1,2415,1,0,0,0,0,0,0,0
+29,core,anthropic/claude-opus-4.5,Prisoner's Dilemma,0,3039,1,1,0,1,1,0,1,0
+30,core,qwen/qwen3-30b-a3b,Prisoner's Dilemma,0,1193,1,1,0,0,0,0,0,0
+31,core,qwen/qwen3-30b-a3b,Chicken,1,8829,1,1,0,0,1,0,0,0
+32,core,deepseek/deepseek-v3.2,Chicken,1,6922,1,1,0,0,1,1,1,0
+33,core,qwen/qwen3-30b-a3b,Chicken,0,6529,1,1,0,0,1,0,0,0
+34,core,deepseek/deepseek-v3.2,Prisoner's Dilemma,0,9921,1,1,0,0,0,0,0,0
+35,core,anthropic/claude-sonnet-4.5,Prisoner's Dilemma,0,3445,1,1,1,0,1,0,0,0
+36,core,qwen/qwen3-30b-a3b,Stag hunt,0,15959,1,1,0,0,0,0,0,0
+37,core,anthropic/claude-sonnet-4.5,Chicken,0,2967,1,1,0,1,1,0,0,0
+38,core,deepseek/deepseek-v3.2,Coordination,1,7230,1,1,0,0,1,0,0,0
+39,core,anthropic/claude-opus-4.5,Chicken,0,3031,1,0,0,1,1,0,0,1
+40,core,deepseek/deepseek-v3.2,Prisoner's Dilemma,0,8067,1,1,0,0,0,0,0,0
+41,core,anthropic/claude-sonnet-4.5,Bach or Stravinski,0,2709,1,1,0,0,1,0,0,0
+42,core,anthropic/claude-opus-4.5,Coordination,1,2336,1,1,0,0,0,0,0,0
+43,core,anthropic/claude-sonnet-4.5,Prisoner's Dilemma,0,1460,1,1,0,0,1,0,0,0
+44,core,anthropic/claude-sonnet-4.5,Stag hunt,0,3594,1,1,0,0,0,0,0,0
+45,core,qwen/qwen3-30b-a3b,Prisoner's Dilemma,0,19065,1,1,1,0,0,0,0,0
+46,core,anthropic/claude-sonnet-4.5,Prisoner's Dilemma,0,2591,1,1,0,0,1,0,1,0
+47,core,anthropic/claude-sonnet-4.5,Stag hunt,1,2665,1,1,1,0,0,0,0,0
+48,core,qwen/qwen3-30b-a3b,Stag hunt,1,466,0,0,0,0,1,0,0,1
+49,core,deepseek/deepseek-v3.2,Prisoner's Dilemma,0,1378,1,1,1,0,0,1,0,0
+50,core,anthropic/claude-sonnet-4.5,Prisoner's Dilemma,1,2533,1,0,0,1,1,0,0,1
+51,core,qwen/qwen3-30b-a3b,Chicken,1,1278,1,0,1,0,1,0,0,0
+52,core,anthropic/claude-sonnet-4.5,Chicken,0,1972,1,0,0,1,1,0,0,0
+53,core,anthropic/claude-opus-4.5,Coordination,1,2395,1,0,0,0,1,0,1,0
+54,core,deepseek/deepseek-v3.2,Chicken,1,9324,1,0,0,0,1,1,0,0
+55,core,qwen/qwen3-30b-a3b,Bach or Stravinski,1,6045,1,1,0,0,0,0,0,0
+56,core,anthropic/claude-opus-4.5,Chicken,1,3327,1,0,0,1,1,0,1,0
+57,core,qwen/qwen3-30b-a3b,Prisoner's Dilemma,0,6629,1,1,0,0,1,0,0,0
+58,core,deepseek/deepseek-v3.2,Chicken,1,8790,1,0,0,0,1,1,0,0
+59,core,qwen/qwen3-30b-a3b,Chicken,0,1341,1,1,0,0,0,0,0,0
+60,core,anthropic/claude-opus-4.5,Prisoner's Dilemma,1,2299,1,0,1,1,1,0,0,0
+61,enrichment,anthropic/claude-sonnet-4.5,Stag hunt,0,2917,1,1,0,0,0,1,0,1
+62,enrichment,deepseek/deepseek-v3.2,Chicken,1,10274,1,1,1,0,1,0,0,0
+63,enrichment,qwen/qwen3-30b-a3b,Prisoner's Dilemma,1,3157,1,0,0,0,1,1,0,0
+64,enrichment,anthropic/claude-opus-4.5,Bach or Stravinski,1,3009,1,1,0,0,1,1,0,0
+65,enrichment,anthropic/claude-opus-4.5,Chicken,1,2632,1,1,0,1,1,0,1,0
+66,enrichment,anthropic/claude-sonnet-4.5,Chicken,0,2368,1,0,0,1,1,0,0,0
+67,enrichment,anthropic/claude-opus-4.5,Stag hunt,1,3840,1,1,1,0,0,0,0,1
+68,enrichment,qwen/qwen3-30b-a3b,Chicken,1,8171,1,1,0,0,1,0,1,0
+69,enrichment,anthropic/claude-opus-4.5,No conflict,1,2220,1,0,0,0,1,0,1,0
+70,enrichment,anthropic/claude-opus-4.5,Chicken,0,2844,0,0,0,1,1,1,0,0
+71,enrichment,anthropic/claude-sonnet-4.5,Chicken,0,2365,1,0,0,1,1,0,0,0
+72,enrichment,anthropic/claude-sonnet-4.5,Prisoner's Dilemma,0,2213,1,1,0,0,0,0,1,0
+73,enrichment,anthropic/claude-sonnet-4.5,Stag hunt,0,4064,1,1,0,0,1,1,0,0
+74,enrichment,anthropic/claude-sonnet-4.5,Prisoner's Dilemma,0,2587,1,1,1,1,0,0,0,1
+75,enrichment,anthropic/claude-opus-4.5,Prisoner's Dilemma,1,2633,1,0,0,1,1,0,0,1
+76,enrichment,deepseek/deepseek-v3.2,Prisoner's Dilemma,1,5715,0,0,0,0,1,1,1,0
+77,enrichment,anthropic/claude-sonnet-4.5,Stag hunt,0,2828,1,1,1,0,0,1,0,0
+78,enrichment,anthropic/claude-opus-4.5,Prisoner's Dilemma,1,3268,1,1,1,1,0,0,0,0
+79,enrichment,anthropic/claude-sonnet-4.5,Stag hunt,1,3757,1,1,0,1,1,0,0,0
+80,enrichment,deepseek/deepseek-v3.2,Prisoner's Dilemma,0,1643,1,0,0,0,1,0,1,0
