@@ -643,14 +643,18 @@ Pepijn Cobben\*, Xuanqiang Angelo Huang\*, Thao Amelia Pham\*, Isabel Dahlgren\*
 
 \* Equal contribution.  † Equal supervision.
 
+Published at **NeurIPS 2026 (Main Track)**.
+
 ```bibtex
-@article{cobben2026gtharmbench,
-  title   = {GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory},
-  author  = {Cobben, Pepijn and Huang, Xuanqiang Angelo and Pham, Thao Amelia and
-             Dahlgren, Isabel and Sch{\"o}lkopf, Bernhard and Zhang, Terry Jingchen and
-             Jin, Zhijing},
-  journal = {arXiv preprint arXiv:2602.12316},
-  year    = {2026},
-  url     = {https://arxiv.org/abs/2602.12316}
+@inproceedings{cobben2026gtharmbench,
+  title     = {GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory},
+  author    = {Cobben, Pepijn and Huang, Xuanqiang Angelo and Pham, Thao Amelia and
+               Dahlgren, Isabel and Sch{\"o}lkopf, Bernhard and Zhang, Terry Jingchen and
+               Jin, Zhijing},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  year      = {2026},
+  eprint    = {2602.12316},
+  archivePrefix = {arXiv},
+  url       = {https://arxiv.org/abs/2602.12316}
 }
 ```

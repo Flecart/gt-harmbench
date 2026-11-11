@@ -34,13 +34,14 @@ authors:
     family-names: Jin
 
 # The paper is what people should actually cite; the block above describes this
-# repository. When the conference version appears, change `type` to
-# `conference-paper` and add `collection-title` / `conference` / `year`.
+# repository. TODO: add the proceedings URL once the NeurIPS 2026 proceedings are out.
 preferred-citation:
-  type: article
+  type: conference-paper
   title: "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory"
   year: 2026
-  journal: "arXiv preprint arXiv:2602.12316"
+  collection-title: "Advances in Neural Information Processing Systems (NeurIPS 2026)"
+  conference:
+    name: "NeurIPS 2026"
   doi: 10.48550/arXiv.2602.12316
   url: "https://arxiv.org/abs/2602.12316"
   authors:

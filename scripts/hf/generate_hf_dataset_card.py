@@ -197,6 +197,24 @@ See the [GitHub repository](https://github.com/Flecart/gt-harmbench) for the ful
 
 ## Citation
 
+GT-HarmBench was published at **NeurIPS 2026 (Main Track)**. Please cite the paper:
+
+```bibtex
+@inproceedings{{cobben2026gtharmbench,
+  title     = {{GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory}},
+  author    = {{Cobben, Pepijn and Huang, Xuanqiang Angelo and Pham, Thao Amelia and
+               Dahlgren, Isabel and Sch{{\\"o}}lkopf, Bernhard and Zhang, Terry Jingchen and
+               Jin, Zhijing}},
+  booktitle = {{Advances in Neural Information Processing Systems (NeurIPS)}},
+  year      = {{2026}},
+  eprint    = {{2602.12316}},
+  archivePrefix = {{arXiv}},
+  url       = {{https://arxiv.org/abs/2602.12316}}
+}}
+```
+
+To cite the dataset release itself:
+
 ```bibtex
 @dataset{{gt-harmbench,
   title  = {{GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory}},
